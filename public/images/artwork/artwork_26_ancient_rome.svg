@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g26" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#b8d0e8"/><stop offset="60%" stop-color="#e8dcc8"/><stop offset="100%" stop-color="#d4c8a8"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g26)"/>
+<rect x="0" y="548" width="1024" height="220" fill="#c4b090"/>
+<rect x="0" y="528" width="1024" height="22" fill="#d4c0a0"/>
+<rect x="68" y="298" width="180" height="258" fill="#e8d8b0" stroke="#b8a870" stroke-width="2"/>
+<g fill="#e8d8b0" stroke="#a09060" stroke-width="1">
+  <rect x="68" y="268" width="16" height="32"/>
+  <rect x="100" y="268" width="16" height="32"/>
+  <rect x="132" y="268" width="16" height="32"/>
+  <rect x="164" y="268" width="16" height="32"/>
+  <rect x="196" y="268" width="16" height="32"/>
+  <rect x="228" y="268" width="16" height="32"/>
+</g>
+<rect x="60" y="258" width="196" height="12" fill="#d4c490" stroke="#a09060" stroke-width="1"/>
+<rect x="56" y="246" width="204" height="14" fill="#c8b880" stroke="#a09060" stroke-width="1"/>
+<polygon points="56,246 158,188 260,246" fill="#c0a840" stroke="#908030" stroke-width="2"/>
+<rect x="338" y="238" width="348" height="318" fill="#f0e0c0" stroke="#c0b080" stroke-width="2"/>
+<g fill="#f0e0c0" stroke="#b0a070" stroke-width="1">
+  <rect x="338" y="200" width="20" height="40"/>
+  <rect x="380" y="200" width="20" height="40"/>
+  <rect x="422" y="200" width="20" height="40"/>
+  <rect x="464" y="200" width="20" height="40"/>
+  <rect x="506" y="200" width="20" height="40"/>
+  <rect x="548" y="200" width="20" height="40"/>
+  <rect x="590" y="200" width="20" height="40"/>
+  <rect x="632" y="200" width="20" height="40"/>
+  <rect x="666" y="200" width="20" height="40"/>
+</g>
+<rect x="328" y="190" width="368" height="14" fill="#e0d0a0" stroke="#b0a070" stroke-width="1"/>
+<rect x="320" y="176" width="384" height="16" fill="#d0c090" stroke="#a09060" stroke-width="1"/>
+<polygon points="320,176 512,98 704,176" fill="#c8b840" stroke="#988020" stroke-width="2"/>
+<rect x="446" y="318" width="132" height="82" fill="#2a1808" opacity="0.7"/>
+<rect x="778" y="318" width="178" height="238" fill="#e8d8b0" stroke="#b8a870" stroke-width="2"/>
+<g fill="#e8d8b0" stroke="#a09060" stroke-width="1">
+  <rect x="778" y="288" width="16" height="32"/>
+  <rect x="810" y="288" width="16" height="32"/>
+  <rect x="842" y="288" width="16" height="32"/>
+  <rect x="874" y="288" width="16" height="32"/>
+  <rect x="906" y="288" width="16" height="32"/>
+  <rect x="938" y="288" width="16" height="32"/>
+</g>
+<rect x="770" y="278" width="194" height="12" fill="#d4c490"/>
+<polygon points="770,278 865,218 960,278" fill="#c0a840" stroke="#908030" stroke-width="2"/>
+<circle cx="178" cy="528" r="12" fill="#2a1808"/>
+<rect x="170" y="540" width="16" height="38" rx="5" fill="#2a1808"/>
+<circle cx="498" cy="528" r="12" fill="#3a2a18"/>
+<rect x="490" y="540" width="16" height="38" rx="5" fill="#3a2a18"/>
+<circle cx="718" cy="525" r="12" fill="#2a1808"/>
+<rect x="710" y="537" width="16" height="38" rx="5" fill="#2a1808"/>
+<g transform="translate(512,218)"><rect x="-91" y="-22" width="182" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">古罗马 · Ancient Rome</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">丝路终点 · 大理石之城</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">古罗马 · 丝路西端终点</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">皇帝奥古斯都禁止进口丝绸 因为太贵了</text>
+</svg>

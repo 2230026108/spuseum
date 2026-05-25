@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#0f3460"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <text x="400" y="80" text-anchor="middle" fill="#f0d78c" font-family="sans-serif" font-size="28" font-weight="bold">今天这意味着什么？</text>
+  <rect x="70" y="140" width="200" height="160" rx="10" fill="#16213e" stroke="#8ec8f2" stroke-width="1.5" opacity="0.9"/>
+  <text x="170" y="230" text-anchor="middle" fill="#8ec8f2" font-family="sans-serif" font-size="15" font-weight="bold">VR博物馆</text>
+  <rect x="300" y="140" width="200" height="160" rx="10" fill="#16213e" stroke="#f0d78c" stroke-width="1.5" opacity="0.9"/>
+  <text x="400" y="225" text-anchor="middle" fill="#f0d78c" font-family="sans-serif" font-size="15" font-weight="bold">数字展览</text>
+  <rect x="530" y="140" width="200" height="160" rx="10" fill="#16213e" stroke="#8ec8f2" stroke-width="1.5" opacity="0.9"/>
+  <text x="630" y="230" text-anchor="middle" fill="#8ec8f2" font-family="sans-serif" font-size="15" font-weight="bold">在线档案</text>
+  <text x="400" y="430" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-family="sans-serif" font-size="15">数字技术让人们重新与历史建立联系</text>
+</svg>

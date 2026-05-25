@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g24" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#2a1a4a"/><stop offset="50%" stop-color="#5a3a8a"/><stop offset="100%" stop-color="#9a7ac0"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g24)"/>
+<rect x="0" y="558" width="1024" height="210" fill="#5a4020"/>
+<rect x="0" y="538" width="1024" height="23" fill="#6a5030"/>
+<rect x="48" y="298" width="160" height="260" fill="#d4a040" stroke="#a07820" stroke-width="2"/>
+<polygon points="48,298 128,218 208,298" fill="#8b3a10" stroke="#5a2a08" stroke-width="2"/>
+<polygon points="68,298 128,232 188,298" fill="#a84a18"/>
+<rect x="88" y="368" width="80" height="70" fill="#2a1a08" opacity="0.8"/>
+<rect x="48" y="298" width="160" height="12" fill="#c89030" opacity="0.7"/>
+<rect x="48" y="370" width="160" height="10" fill="#c89030" opacity="0.7"/>
+<rect x="48" y="430" width="160" height="10" fill="#c89030" opacity="0.7"/>
+<rect x="348" y="228" width="328" height="328" fill="#e0c080" stroke="#c0a040" stroke-width="3"/>
+<polygon points="330,228 512,128 694,228" fill="#9a4010" stroke="#6a2a08" stroke-width="2"/>
+<polygon points="360,228 512,148 664,228" fill="#b85018"/>
+<rect x="456" y="388" width="112" height="100" fill="#2a1808" opacity="0.8"/>
+<rect x="348" y="238" width="328" height="14" fill="#d4a030" opacity="0.7"/>
+<rect x="348" y="328" width="328" height="12" fill="#d4a030" opacity="0.7"/>
+<rect x="348" y="428" width="328" height="12" fill="#d4a030" opacity="0.7"/>
+<circle cx="508" cy="185" r="10" fill="#f0d060"/>
+<circle cx="516" cy="185" r="10" fill="#f0d060"/>
+<rect x="814" y="318" width="162" height="242" fill="#c8a050" stroke="#a07830" stroke-width="2"/>
+<polygon points="814,318 895,248 976,318" fill="#8b3a10" stroke="#5a2a08" stroke-width="2"/>
+<rect x="834" y="378" width="122" height="70" fill="#2a1808" opacity="0.8"/>
+<rect x="814" y="328" width="162" height="10" fill="#c89030" opacity="0.6"/>
+<g transform="translate(148,548) scale(0.72)"><circle cx="0" cy="-52" r="11" fill="#2a1a08"/><rect x="-6" y="-41" width="13" height="36" rx="4" fill="#3a2010"/><rect x="-5" y="-5" width="10" height="26" rx="3" fill="#2a1a08"/></g>
+<g transform="translate(500,552) scale(0.72)"><circle cx="0" cy="-52" r="11" fill="#6a4020"/><rect x="-6" y="-41" width="13" height="36" rx="4" fill="#7a5030"/></g>
+<g transform="translate(700,545) scale(0.72)"><circle cx="0" cy="-52" r="11" fill="#3a2810"/><rect x="-6" y="-41" width="13" height="36" rx="4" fill="#4a3020"/></g>
+<text x="280" y="528" fill="#f0d08066" font-family="serif" font-size="13">东市 · 西市</text>
+<text x="620" y="520" fill="#f0d08066" font-family="serif" font-size="13">万国来朝</text>
+<g transform="translate(512,228)"><rect x="-100" y="-22" width="200" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">唐代长安 · Tang Chang-an</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">世界最繁华城市 百万人口</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">唐代长安 · 盛唐万国来朝</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">来自72个国家的商人·使节聚集于此</text>
+</svg>

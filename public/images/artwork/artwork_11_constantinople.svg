@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g11" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#c87030"/><stop offset="40%" stop-color="#e09050"/><stop offset="70%" stop-color="#f0c070"/><stop offset="100%" stop-color="#f5e090"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g11)"/>
+<path d="M0,418 Q200,398 400,413 Q600,393 800,408 Q900,398 1024,406 L1024,566 Q800,556 600,563 Q400,553 200,560 Q100,556 0,558Z" fill="#2060a0" opacity="0.82"/>
+<path d="M0,278 Q200,238 400,258 Q600,228 800,248 Q900,238 1024,253 L1024,418 L0,418Z" fill="#8a7040"/>
+<path d="M0,378 Q150,358 300,368 Q450,353 600,363 Q750,348 900,358 Q970,353 1024,356 L1024,418 L0,418Z" fill="#a08050"/>
+<rect x="348" y="268" width="328" height="152" fill="#d4c090" stroke="#b0a070" stroke-width="2"/>
+<ellipse cx="512" cy="268" rx="122" ry="97" fill="#e0c890"/>
+<ellipse cx="512" cy="260" rx="92" ry="74" fill="#e8d0a0"/>
+<ellipse cx="512" cy="253" rx="57" ry="50" fill="#d4b870"/>
+<ellipse cx="348" cy="348" rx="72" ry="57" fill="#d8c880" opacity="0.7"/>
+<ellipse cx="676" cy="348" rx="72" ry="57" fill="#d8c880" opacity="0.7"/>
+<rect x="316" y="238" width="30" height="102" fill="#c8b070"/>
+<ellipse cx="331" cy="238" rx="15" ry="22" fill="#b8a060"/>
+<circle cx="331" cy="214" r="6" fill="#d8c040"/>
+<rect x="678" y="238" width="30" height="102" fill="#c8b070"/>
+<ellipse cx="693" cy="238" rx="15" ry="22" fill="#b8a060"/>
+<circle cx="693" cy="214" r="6" fill="#d8c040"/>
+<rect x="338" y="338" width="26" height="82" fill="#c0a860"/>
+<ellipse cx="351" cy="338" rx="13" ry="19" fill="#b09850"/>
+<rect x="660" y="338" width="26" height="82" fill="#c0a860"/>
+<ellipse cx="673" cy="338" rx="13" ry="19" fill="#b09850"/>
+<path d="M198,453 Q240,438 282,448" stroke="#4a3010" stroke-width="5" fill="#6a4820"/>
+<rect x="228" y="416" width="3" height="30" fill="#4a3010"/>
+<path d="M230,416 L266,428" stroke="#a08050" stroke-width="1"/>
+<g transform="translate(512,253)"><rect x="-109" y="-22" width="218" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">君士坦丁堡 · Constantinople</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">拜占庭帝国首都 · 今伊斯坦布尔</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">君士坦丁堡 · 东西方帝都</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">圣索菲亚大教堂 · 欧亚十字路口</text>
+</svg>

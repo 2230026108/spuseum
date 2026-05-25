@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g10" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0a1a3a"/><stop offset="30%" stop-color="#1a3a6a"/><stop offset="70%" stop-color="#2a5a8a"/><stop offset="100%" stop-color="#6a9ab0"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g10)"/>
+<circle cx="80" cy="58" r="2" fill="white" opacity="0.9"/>
+<circle cx="200" cy="88" r="1.5" fill="white" opacity="0.7"/>
+<circle cx="380" cy="43" r="2" fill="white" opacity="0.8"/>
+<circle cx="600" cy="73" r="1.5" fill="white" opacity="0.6"/>
+<circle cx="750" cy="53" r="2" fill="white" opacity="0.9"/>
+<circle cx="920" cy="78" r="1.5" fill="white" opacity="0.7"/>
+<path d="M0,478 Q200,458 400,473 Q600,448 800,463 Q900,453 1024,458 L1024,528 Q800,518 600,508 Q400,523 200,508 Q100,518 0,513Z" fill="#1a5080" opacity="0.75"/>
+<circle cx="512" cy="348" r="202" fill="none" stroke="#d4a840" stroke-width="4"/>
+<circle cx="512" cy="348" r="162" fill="none" stroke="#d4a840" stroke-width="2"/>
+<circle cx="512" cy="348" r="82" fill="#3a2a10" stroke="#d4a840" stroke-width="3"/>
+<rect x="490" y="318" width="44" height="62" fill="#c8a040"/>
+<ellipse cx="512" cy="318" rx="22" ry="28" fill="#d8b050"/>
+<circle cx="512" cy="314" r="8" fill="#e8c060"/>
+<rect x="498" y="145" width="28" height="32" fill="#c8a840"/>
+<rect x="498" y="518" width="28" height="32" fill="#c8a840"/>
+<rect x="308" y="336" width="32" height="25" fill="#c8a840"/>
+<rect x="684" y="336" width="32" height="25" fill="#c8a840"/>
+<text x="390" y="498" fill="#6ab0d0" font-family="serif" font-size="18" opacity="0.8">底格里斯河</text>
+<g transform="translate(512,228)"><rect x="-68" y="-22" width="137" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">巴格达 · Baghdad</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">阿拔斯王朝 · 圆形城市</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">巴格达 · 阿拔斯帝国黄金时代</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">公元762年建城 · 丝路最繁盛的中东都市</text>
+</svg>

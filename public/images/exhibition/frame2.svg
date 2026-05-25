@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#0f3460"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <text x="400" y="80" text-anchor="middle" fill="#f0d78c" font-family="sans-serif" font-size="28" font-weight="bold">为什么选择这个AI工具？</text>
+  <rect x="120" y="120" width="220" height="160" rx="8" fill="#16213e" stroke="#f0d78c" stroke-width="1.5" opacity="0.9"/>
+  <text x="230" y="200" text-anchor="middle" fill="#f0d78c" font-family="sans-serif" font-size="13" font-weight="bold">AI视频</text>
+  <text x="230" y="225" text-anchor="middle" fill="#f0d78c" font-family="sans-serif" font-size="13">生成</text>
+  <rect x="460" y="120" width="220" height="160" rx="8" fill="#16213e" stroke="#8ec8f2" stroke-width="1.5" opacity="0.9"/>
+  <text x="570" y="200" text-anchor="middle" fill="#8ec8f2" font-family="sans-serif" font-size="13" font-weight="bold">数字</text>
+  <text x="570" y="225" text-anchor="middle" fill="#8ec8f2" font-family="sans-serif" font-size="13">重建</text>
+  <polygon points="380,200 400,230 420,200" fill="#f0d78c" opacity="0.4"/>
+  <polygon points="400,200 420,230 440,200" fill="#f0d78c" opacity="0.4"/>
+  <text x="400" y="420" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-family="sans-serif" font-size="15">即梦AI视频生成 | 电影级叙事</text>
+  <text x="400" y="455" text-anchor="middle" fill="#f0d78c" font-family="sans-serif" font-size="13">技术不仅在研究历史，更在激活历史</text>
+</svg>

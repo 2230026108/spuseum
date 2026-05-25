@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g31" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#040410"/><stop offset="100%" stop-color="#080820"/>
+  </linearGradient>
+  <filter id="glow31">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1024" height="768" fill="url(#g31)"/>
+<rect x="38" y="78" width="948" height="545" rx="4" fill="#060818" stroke="#f0c87022" stroke-width="1"/>
+<circle cx="120" cy="305" r="7" fill="#e8c040" filter="url(#glow31)"/>
+<circle cx="310" cy="278" r="6" fill="#e0b830"/>
+<circle cx="455" cy="268" r="6" fill="#e0b830"/>
+<circle cx="565" cy="278" r="6" fill="#e0b830"/>
+<circle cx="688" cy="268" r="6" fill="#e0b830"/>
+<circle cx="818" cy="278" r="7" fill="#e8c040" filter="url(#glow31)"/>
+<circle cx="938" cy="295" r="7" fill="#e8c040" filter="url(#glow31)"/>
+<path d="M120,305 Q200,285 310,278 Q380,272 455,268 Q510,264 565,278 Q625,285 688,268 Q750,255 818,278 Q875,290 938,295" stroke="#f0c870cc" stroke-width="3" fill="none" stroke-dasharray="0" filter="url(#glow31)"/>
+<text x="120" y="323" text-anchor="middle" fill="#e8c040" font-family="serif" font-size="11">北京</text>
+<text x="310" y="296" text-anchor="middle" fill="#d0a830" font-family="serif" font-size="11">中亚</text>
+<text x="455" y="286" text-anchor="middle" fill="#d0a830" font-family="serif" font-size="11">伊朗</text>
+<text x="688" y="286" text-anchor="middle" fill="#d0a830" font-family="serif" font-size="11">土耳其</text>
+<text x="818" y="296" text-anchor="middle" fill="#d0a830" font-family="serif" font-size="11">欧洲</text>
+<path d="M120,305 Q200,370 280,420 Q350,465 420,488 Q500,508 580,518 Q660,525 740,518 Q820,508 900,498" stroke="#4090d0cc" stroke-width="2.5" fill="none" stroke-dasharray="0" filter="url(#glow31)"/>
+<circle cx="280" cy="420" r="5" fill="#4090d0"/>
+<text x="280" y="440" text-anchor="middle" fill="#4090d0" font-family="serif" font-size="11">东南亚</text>
+<circle cx="500" cy="510" r="5" fill="#4090d0"/>
+<text x="500" y="528" text-anchor="middle" fill="#4090d0" font-family="serif" font-size="11">印度洋</text>
+<circle cx="730" cy="518" r="5" fill="#4090d0"/>
+<text x="730" y="536" text-anchor="middle" fill="#4090d0" font-family="serif" font-size="11">非洲</text>
+<rect x="178" y="600" width="668" height="88" rx="5" fill="#080818cc" stroke="#f0c87055" stroke-width="1"/>
+<text x="512" y="632" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="18" font-weight="bold">一带一路倡议</text>
+<text x="512" y="656" text-anchor="middle" fill="#d0a83099" font-family="serif" font-size="13">Belt and Road Initiative · 2013</text>
+<text x="512" y="676" text-anchor="middle" fill="#c8a02088" font-family="serif" font-size="12">连接140+国家 · 古丝路的现代延伸</text>
+<g transform="translate(512,148)"><rect x="-55" y="-22" width="110" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">一带一路 · BRI</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">2013 · 习近平提出 · 140+国家</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">一带一路 · 21世纪丝绸之路</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">古代商路的现代复兴 连接亚欧非大陆</text>
+</svg>

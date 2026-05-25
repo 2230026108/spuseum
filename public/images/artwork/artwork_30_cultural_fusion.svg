@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <radialGradient id="g30" cx="0.5" cy="0.5" r="0.7">
+    <stop offset="0%" stop-color="#1a1838"/><stop offset="100%" stop-color="#080810"/>
+  </radialGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g30)"/>
+<circle cx="512" cy="338" r="198" fill="none" stroke="#f0d06033" stroke-width="2"/>
+<circle cx="512" cy="338" r="148" fill="none" stroke="#f0d06022" stroke-width="1"/>
+<circle cx="318" cy="338" r="148" fill="#c04020" opacity="0.12" stroke="#c04020" stroke-width="1.5"/>
+<circle cx="706" cy="338" r="148" fill="#2060a0" opacity="0.12" stroke="#2060a0" stroke-width="1.5"/>
+<circle cx="512" cy="168" r="148" fill="#20a040" opacity="0.12" stroke="#20a040" stroke-width="1.5"/>
+<text x="248" y="328" text-anchor="middle" fill="#c04020" font-family="serif" font-size="16" opacity="0.8">中华文明</text>
+<text x="248" y="348" text-anchor="middle" fill="#c04020" font-family="serif" font-size="13" opacity="0.7">汉字·丝绸·茶·瓷器</text>
+<text x="768" y="328" text-anchor="middle" fill="#2060a0" font-family="serif" font-size="16" opacity="0.8">欧洲文明</text>
+<text x="768" y="348" text-anchor="middle" fill="#2060a0" font-family="serif" font-size="13" opacity="0.7">玻璃·黄金·法律</text>
+<text x="512" y="128" text-anchor="middle" fill="#20a040" font-family="serif" font-size="16" opacity="0.8">伊斯兰文明</text>
+<text x="512" y="148" text-anchor="middle" fill="#20a040" font-family="serif" font-size="13" opacity="0.7">数学·天文·医学</text>
+<circle cx="512" cy="338" r="58" fill="#f0d060" opacity="0.15" stroke="#f0d060" stroke-width="2"/>
+<text x="512" y="333" text-anchor="middle" fill="#f0d060" font-family="serif" font-size="15" font-weight="bold">丝绸之路</text>
+<text x="512" y="353" text-anchor="middle" fill="#f0d060" font-family="serif" font-size="11">文明交汇点</text>
+<path d="M364,338 Q388,328 430,338" stroke="#f0d060" stroke-width="2" fill="none" opacity="0.5"/>
+<path d="M594,338 Q636,328 660,338" stroke="#f0d060" stroke-width="2" fill="none" opacity="0.5"/>
+<path d="M512,280 Q522,258 512,240" stroke="#f0d060" stroke-width="2" fill="none" opacity="0.5"/>
+<rect x="168" y="548" width="688" height="125" rx="6" fill="#0a0a1ecc" stroke="#f0d06044" stroke-width="1"/>
+<text x="512" y="582" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="17" font-weight="bold">丝绸之路上的文明交流</text>
+<text x="512" y="608" text-anchor="middle" fill="#f0d08099" font-family="serif" font-size="13">佛教 · 基督教 · 伊斯兰教 沿路传播</text>
+<text x="512" y="628" text-anchor="middle" fill="#f0d08099" font-family="serif" font-size="13">造纸术 · 印刷术 · 火药 · 指南针 向西传递</text>
+<text x="512" y="648" text-anchor="middle" fill="#f0d08099" font-family="serif" font-size="13">玻璃制造 · 织毯技艺 · 葡萄酿酒 向东传递</text>
+<g transform="translate(512,278)"><rect x="-32" y="-22" width="65" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">文明大融合</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">三大文明圈的碰撞与交流</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">丝路文明交融 · 人类共同遗产</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">没有任何一条道路比丝绸之路改变了更多文明</text>
+</svg>

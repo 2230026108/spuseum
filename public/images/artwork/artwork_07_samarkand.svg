@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g7" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05050f"/><stop offset="50%" stop-color="#101030"/><stop offset="100%" stop-color="#202050"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g7)"/>
+<circle cx="100" cy="70" r="1.8" fill="white" opacity="0.9"/>
+<circle cx="280" cy="45" r="1.5" fill="white" opacity="0.7"/>
+<circle cx="500" cy="65" r="2" fill="white" opacity="0.8"/>
+<circle cx="700" cy="38" r="1.5" fill="white" opacity="0.6"/>
+<circle cx="880" cy="60" r="2" fill="white" opacity="0.9"/>
+<circle cx="600" cy="95" r="1.5" fill="white" opacity="0.5"/>
+<rect x="0" y="578" width="1024" height="190" fill="#6a5030"/>
+<rect x="0" y="556" width="1024" height="25" fill="#7a6040"/>
+<rect x="68" y="368" width="230" height="192" fill="#3060a0" stroke="#205080" stroke-width="2"/>
+<ellipse cx="183" cy="368" rx="96" ry="88" fill="#4070b0"/>
+<ellipse cx="183" cy="362" rx="76" ry="70" fill="#5080c0"/>
+<ellipse cx="183" cy="356" rx="46" ry="42" fill="#f0d040" opacity="0.85"/>
+<rect x="73" y="198" width="42" height="175" fill="#4070b0"/>
+<ellipse cx="94" cy="198" rx="21" ry="32" fill="#3060a0"/>
+<circle cx="94" cy="164" r="7" fill="#d8c040"/>
+<rect x="254" y="202" width="42" height="170" fill="#4070b0"/>
+<ellipse cx="275" cy="202" rx="21" ry="30" fill="#3060a0"/>
+<circle cx="275" cy="170" r="7" fill="#d8c040"/>
+<rect x="726" y="368" width="230" height="192" fill="#3060a0" stroke="#205080" stroke-width="2"/>
+<ellipse cx="841" cy="368" rx="96" ry="88" fill="#4070b0"/>
+<ellipse cx="841" cy="362" rx="76" ry="70" fill="#5080c0"/>
+<ellipse cx="841" cy="356" rx="46" ry="42" fill="#f0d040" opacity="0.85"/>
+<rect x="726" y="200" width="42" height="173" fill="#4070b0"/>
+<ellipse cx="747" cy="200" rx="21" ry="32" fill="#3060a0"/>
+<circle cx="747" cy="166" r="7" fill="#d8c040"/>
+<rect x="910" y="203" width="42" height="170" fill="#4070b0"/>
+<ellipse cx="931" cy="203" rx="21" ry="30" fill="#3060a0"/>
+<circle cx="931" cy="172" r="7" fill="#d8c040"/>
+<rect x="350" y="278" width="324" height="102" fill="#2050a0" stroke="#104080" stroke-width="2"/>
+<ellipse cx="512" cy="278" rx="122" ry="102" fill="#3060b0"/>
+<ellipse cx="512" cy="270" rx="92" ry="80" fill="#4070c0"/>
+<ellipse cx="512" cy="262" rx="57" ry="50" fill="#f0d840" opacity="0.88"/>
+<g transform="translate(512,260)"><rect x="-82" y="-22" width="164" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">撒马尔罕 · Samarkand</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">中亚第一重镇 · 帖木儿帝国首都</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">撒马尔罕 · 蓝色圆顶之城</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">雷吉斯坦广场 · 丝路中亚最辉煌都市</text>
+</svg>

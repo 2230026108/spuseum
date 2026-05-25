@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g15" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#f5e8cc"/><stop offset="100%" stop-color="#d4b888"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g15)"/>
+<rect x="78" y="198" width="402" height="352" rx="5" fill="#5a3a10" stroke="#3a2008" stroke-width="3"/>
+<rect x="93" y="213" width="372" height="322" rx="3" fill="#2a1808"/>
+<g stroke="#f0e8d088" stroke-width="1">
+  <line x1="113" y1="213" x2="113" y2="535"/>
+  <line x1="128" y1="213" x2="128" y2="535"/>
+  <line x1="143" y1="213" x2="143" y2="535"/>
+  <line x1="158" y1="213" x2="158" y2="535"/>
+  <line x1="173" y1="213" x2="173" y2="535"/>
+  <line x1="188" y1="213" x2="188" y2="535"/>
+  <line x1="203" y1="213" x2="203" y2="535"/>
+  <line x1="218" y1="213" x2="218" y2="535"/>
+  <line x1="233" y1="213" x2="233" y2="535"/>
+  <line x1="248" y1="213" x2="248" y2="535"/>
+  <line x1="263" y1="213" x2="263" y2="535"/>
+  <line x1="278" y1="213" x2="278" y2="535"/>
+  <line x1="293" y1="213" x2="293" y2="535"/>
+  <line x1="308" y1="213" x2="308" y2="535"/>
+  <line x1="323" y1="213" x2="323" y2="535"/>
+  <line x1="338" y1="213" x2="338" y2="535"/>
+  <line x1="353" y1="213" x2="353" y2="535"/>
+  <line x1="368" y1="213" x2="368" y2="535"/>
+  <line x1="383" y1="213" x2="383" y2="535"/>
+  <line x1="398" y1="213" x2="398" y2="535"/>
+  <line x1="413" y1="213" x2="413" y2="535"/>
+  <line x1="428" y1="213" x2="428" y2="535"/>
+  <line x1="443" y1="213" x2="443" y2="535"/>
+  <line x1="455" y1="213" x2="455" y2="535"/>
+</g>
+<rect x="93" y="368" width="372" height="87" fill="#d4305080"/>
+<path d="M93,388 L465,388" stroke="#e85070" stroke-width="2"/>
+<path d="M93,402 L465,402" stroke="#f06080" stroke-width="2"/>
+<path d="M93,416 L465,416" stroke="#d84060" stroke-width="2"/>
+<path d="M93,430 L465,430" stroke="#e85070" stroke-width="2"/>
+<path d="M93,444 L465,444" stroke="#c83050" stroke-width="2"/>
+<ellipse cx="648" cy="398" rx="82" ry="52" fill="#d4a050" stroke="#a07830" stroke-width="2"/>
+<rect x="568" y="348" width="162" height="102" fill="#d4a050" stroke="#a07830" stroke-width="2"/>
+<ellipse cx="648" cy="348" rx="82" ry="52" fill="#e8b860" stroke="#c09040" stroke-width="2"/>
+<path d="M608,358 Q648,333 688,358 Q668,383 648,378 Q628,383 608,358Z" stroke="#c04020" stroke-width="2" fill="none" opacity="0.7"/>
+<path d="M648,333 Q658,313 653,293 Q643,308 648,333" stroke="#c04020" stroke-width="2" fill="none" opacity="0.7"/>
+<ellipse cx="798" cy="298" rx="19" ry="11" fill="#f0f0e0" stroke="#d0d0c0" stroke-width="1"/>
+<ellipse cx="838" cy="283" rx="19" ry="11" fill="#f0f0e0" stroke="#d0d0c0" stroke-width="1"/>
+<ellipse cx="878" cy="298" rx="19" ry="11" fill="#f0f0e0" stroke="#d0d0c0" stroke-width="1"/>
+<ellipse cx="808" cy="258" rx="23" ry="15" fill="#3a8030" opacity="0.7" transform="rotate(-15,808,258)"/>
+<ellipse cx="853" cy="248" rx="23" ry="15" fill="#4a9040" opacity="0.7" transform="rotate(10,853,248)"/>
+<ellipse cx="868" cy="268" rx="21" ry="14" fill="#3a8030" opacity="0.7" transform="rotate(-5,868,268)"/>
+<rect x="578" y="488" width="362" height="58" rx="5" fill="#8a6030aa"/>
+<text x="759" y="518" text-anchor="middle" fill="#f5e0c0" font-family="serif" font-size="16">蚕茧·缫丝·织锦</text>
+<text x="759" y="538" text-anchor="middle" fill="#f0d0a0" font-family="serif" font-size="12">中国独有的技术 秘守千年</text>
+<g transform="translate(278,173)"><rect x="-37" y="-22" width="74" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">中国丝绸生产</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">养蚕缫丝 · 汉代技术秘密</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">养蚕缫丝 · 中国独守千年的秘密</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">丝绸技术直到唐代才西传</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <radialGradient id="g23" cx="0.5" cy="0.4" r="0.8">
+    <stop offset="0%" stop-color="#0a1030"/><stop offset="100%" stop-color="#000008"/>
+  </radialGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g23)"/>
+<circle cx="80" cy="55" r="1.8" fill="white" opacity="0.9"/>
+<circle cx="150" cy="85" r="1.5" fill="white" opacity="0.7"/>
+<circle cx="220" cy="40" r="2" fill="white" opacity="0.8"/>
+<circle cx="310" cy="75" r="1.5" fill="white" opacity="0.6"/>
+<circle cx="390" cy="28" r="2.5" fill="white" opacity="0.95"/>
+<circle cx="450" cy="62" r="1.5" fill="white" opacity="0.7"/>
+<circle cx="510" cy="18" r="2" fill="white" opacity="0.8"/>
+<circle cx="570" cy="50" r="1.5" fill="white" opacity="0.6"/>
+<circle cx="640" cy="35" r="2" fill="white" opacity="0.9"/>
+<circle cx="710" cy="70" r="1.5" fill="white" opacity="0.7"/>
+<circle cx="790" cy="45" r="2.5" fill="white" opacity="0.95"/>
+<circle cx="860" cy="80" r="1.5" fill="white" opacity="0.7"/>
+<circle cx="930" cy="30" r="2" fill="white" opacity="0.8"/>
+<circle cx="985" cy="60" r="1.5" fill="white" opacity="0.6"/>
+<circle cx="120" cy="140" r="1.5" fill="white" opacity="0.5"/>
+<circle cx="280" cy="160" r="1.5" fill="white" opacity="0.6"/>
+<circle cx="480" cy="120" r="1.5" fill="white" opacity="0.5"/>
+<circle cx="680" cy="150" r="1.5" fill="white" opacity="0.6"/>
+<circle cx="880" cy="130" r="1.5" fill="white" opacity="0.5"/>
+<path d="M0,198 Q200,148 400,178 Q600,138 800,158 Q900,143 1024,168" stroke="white" stroke-width="22" fill="none" opacity="0.05"/>
+<circle cx="512" cy="280" r="180" fill="none" stroke="#d4a04033" stroke-width="1"/>
+<circle cx="512" cy="280" r="140" fill="none" stroke="#d4a04022" stroke-width="1"/>
+<circle cx="512" cy="280" r="100" fill="none" stroke="#d4a04022" stroke-width="1"/>
+<path d="M512,100 L512,460" stroke="#d4a04033" stroke-width="1"/>
+<path d="M332,280 L692,280" stroke="#d4a04033" stroke-width="1"/>
+<path d="M385,153 L639,407" stroke="#d4a04022" stroke-width="1"/>
+<path d="M639,153 L385,407" stroke="#d4a04022" stroke-width="1"/>
+<circle cx="512" cy="280" r="8" fill="#f0d060" opacity="0.9"/>
+<circle cx="200" cy="95" r="5" fill="#f0d060" opacity="0.8"/>
+<circle cx="300" cy="155" r="4" fill="#d0c060" opacity="0.8"/>
+<circle cx="390" cy="200" r="4" fill="#d0c060" opacity="0.8"/>
+<circle cx="720" cy="82" r="5" fill="#f0d060" opacity="0.8"/>
+<circle cx="620" cy="155" r="4" fill="#d0c060" opacity="0.8"/>
+<path d="M200,95 L300,155 L390,200 L512,280" stroke="#f0d06088" stroke-width="1.5" fill="none" stroke-dasharray="5,4"/>
+<path d="M720,82 L620,155 L512,280" stroke="#f0d06088" stroke-width="1.5" fill="none" stroke-dasharray="5,4"/>
+<text x="185" y="75" fill="#f0d060" font-family="serif" font-size="12" opacity="0.7">北极星</text>
+<text x="712" y="63" fill="#f0d060" font-family="serif" font-size="12" opacity="0.7">北斗七星</text>
+<circle cx="512" cy="590" r="90" fill="#c89030" opacity="0.15" stroke="#c89030" stroke-width="2"/>
+<rect x="478" y="555" width="68" height="80" rx="5" fill="#d4a030" opacity="0.2" stroke="#d4a030" stroke-width="1"/>
+<circle cx="512" cy="565" r="18" fill="none" stroke="#d4a030" stroke-width="1.5" opacity="0.6"/>
+<path d="M494,572 L530,572" stroke="#d4a030" stroke-width="1.5" opacity="0.6"/>
+<path d="M512,555 L512,590" stroke="#d4a030" stroke-width="1.5" opacity="0.6"/>
+<text x="512" y="648" text-anchor="middle" fill="#d4a030" font-family="serif" font-size="12" opacity="0.6">星盘导航</text>
+<text x="512" y="445" text-anchor="middle" fill="#f0d06099" font-family="serif" font-size="16">以星辰指引方向</text>
+<g transform="translate(512,190)"><rect x="-37" y="-22" width="74" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">古代星象导航</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">中国·阿拉伯·希腊天文学</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">古代天文 · 星辰指引商路</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">中国与阿拉伯天文学共同支撑丝路导航</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g18" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#f0e8d8"/><stop offset="100%" stop-color="#c8b898"/>
+  </linearGradient>
+  <radialGradient id="gl1" cx="0.4" cy="0.3" r="0.7">
+    <stop offset="0%" stop-color="#e0f8f8"/><stop offset="40%" stop-color="#80d0d8"/><stop offset="100%" stop-color="#2080a0"/>
+  </radialGradient>
+  <radialGradient id="gl2" cx="0.35" cy="0.25" r="0.7">
+    <stop offset="0%" stop-color="#f8f0e8"/><stop offset="40%" stop-color="#e8c080"/><stop offset="100%" stop-color="#c07820"/>
+  </radialGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g18)"/>
+<rect x="0" y="498" width="1024" height="270" fill="#8a6a40"/>
+<rect x="0" y="478" width="1024" height="23" fill="#a07850"/>
+<ellipse cx="198" cy="488" rx="57" ry="16" fill="#2080a088"/>
+<path d="M141,488 Q136,396 157,357 Q173,327 198,317 Q223,327 240,357 Q260,396 255,488Z" fill="url(#gl1)" opacity="0.87"/>
+<ellipse cx="198" cy="317" rx="31" ry="11" fill="#3a90b0" opacity="0.7"/>
+<rect x="186" y="287" width="25" height="33" rx="10" fill="#5aa0c0" opacity="0.7"/>
+<ellipse cx="198" cy="287" rx="15" ry="9" fill="#4a90b0" opacity="0.7"/>
+<path d="M158,378 Q163,358 168,378" stroke="#f0f8ff" stroke-width="3" fill="none" opacity="0.6"/>
+<ellipse cx="378" cy="478" rx="67" ry="19" fill="#c89040aa"/>
+<path d="M311,478 Q304,357 337,307 Q357,272 378,262 Q399,272 419,307 Q452,357 445,478Z" fill="url(#gl2)" opacity="0.9"/>
+<ellipse cx="378" cy="262" rx="33" ry="11" fill="#c89040" opacity="0.8"/>
+<rect x="364" y="228" width="29" height="38" rx="12" fill="#d4a050" opacity="0.8"/>
+<ellipse cx="378" cy="228" rx="17" ry="10" fill="#c89040" opacity="0.8"/>
+<path d="M311,368 Q286,348 311,318" stroke="#c89040" stroke-width="9" fill="none" opacity="0.7"/>
+<path d="M445,368 Q470,348 445,318" stroke="#c89040" stroke-width="9" fill="none" opacity="0.7"/>
+<ellipse cx="578" cy="488" rx="62" ry="17" fill="#e8f0f888"/>
+<path d="M516,488 Q511,376 536,331 Q556,291 578,281 Q600,291 620,331 Q645,376 640,488Z" fill="#f0f4f8" opacity="0.95"/>
+<ellipse cx="578" cy="281" rx="36" ry="12" fill="#e8f0f8" opacity="0.9"/>
+<path d="M536,398 Q558,383 578,398 Q598,383 620,398" stroke="#1848a0" stroke-width="2" fill="none" opacity="0.7"/>
+<path d="M530,428 Q553,413 578,428 Q603,413 626,428" stroke="#1848a0" stroke-width="2" fill="none" opacity="0.7"/>
+<circle cx="563" cy="358" r="9" fill="none" stroke="#1848a0" stroke-width="2" opacity="0.6"/>
+<circle cx="593" cy="358" r="9" fill="none" stroke="#1848a0" stroke-width="2" opacity="0.6"/>
+<ellipse cx="778" cy="428" rx="82" ry="23" fill="#d04050aa"/>
+<rect x="698" y="318" width="162" height="112" fill="#d04050" opacity="0.85"/>
+<ellipse cx="778" cy="318" rx="82" ry="23" fill="#e05060"/>
+<path d="M728,358 Q758,338 788,358 Q758,378 728,358Z" stroke="#f0d080" stroke-width="1.5" fill="none" opacity="0.7"/>
+<ellipse cx="918" cy="488" rx="52" ry="16" fill="#c84010aa"/>
+<path d="M866,488 Q866,437 918,422 Q970,437 970,488Z" fill="#d04820" opacity="0.9"/>
+<ellipse cx="918" cy="422" rx="32" ry="11" fill="#c84010"/>
+<text x="918" y="419" text-anchor="middle" fill="#fff8e0" font-size="11">香料</text>
+<text x="198" y="548" text-anchor="middle" fill="#e8d8c0" font-family="serif" font-size="13">罗马玻璃</text>
+<text x="378" y="548" text-anchor="middle" fill="#e8d8c0" font-family="serif" font-size="13">双耳瓶</text>
+<text x="578" y="548" text-anchor="middle" fill="#e8d8c0" font-family="serif" font-size="13">青花瓷</text>
+<text x="778" y="548" text-anchor="middle" fill="#e8d8c0" font-family="serif" font-size="13">丝绸</text>
+<text x="918" y="548" text-anchor="middle" fill="#e8d8c0" font-family="serif" font-size="13">东方香料</text>
+<g transform="translate(512,178)"><rect x="-37" y="-22" width="74" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">丝路贸易商品</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">玻璃·瓷器·丝绸·香料</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">丝路珍品 · 东西方价值交换</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">丝绸换玻璃 瓷器换香料 跨越万里</text>
+</svg>

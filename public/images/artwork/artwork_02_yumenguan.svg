@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0a1a3a"/><stop offset="50%" stop-color="#2a4a7a"/><stop offset="100%" stop-color="#c0a060"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g2)"/>
+<circle cx="200" cy="100" r="2" fill="white" opacity="0.8"/>
+<circle cx="400" cy="60" r="2" fill="white" opacity="0.7"/>
+<circle cx="700" cy="80" r="2" fill="white" opacity="0.9"/>
+<circle cx="900" cy="55" r="1.5" fill="white" opacity="0.6"/>
+<path d="M0 510 Q250 475 500 500 Q750 468 1024 488 L1024 768 L0 768Z" fill="#b09050"/>
+<path d="M0 570 Q300 538 600 558 Q800 530 1024 548 L1024 768 L0 768Z" fill="#9a7840"/>
+<path d="M0 640 Q300 610 600 628 Q800 603 1024 616 L1024 768 L0 768Z" fill="#7a5a28"/>
+<rect x="380" y="300" width="264" height="210" fill="#c8a860" stroke="#a08840" stroke-width="3"/>
+<rect x="380" y="278" width="264" height="25" fill="#c8a860" stroke="#a08840" stroke-width="2"/>
+<rect x="396" y="260" width="36" height="20" fill="#c8a860"/>
+<rect x="456" y="260" width="36" height="20" fill="#c8a860"/>
+<rect x="516" y="260" width="36" height="20" fill="#c8a860"/>
+<rect x="576" y="260" width="36" height="20" fill="#c8a860"/>
+<rect x="612" y="260" width="34" height="20" fill="#c8a860"/>
+<path d="M450,510 Q512,440 574,510" fill="#1a1008" stroke="#806828" stroke-width="2"/>
+<ellipse cx="512" cy="248" rx="24" ry="8" fill="#ff6010" opacity="0.8"/>
+<ellipse cx="512" cy="234" rx="14" ry="18" fill="#ff8020" opacity="0.6"/>
+<ellipse cx="512" cy="222" rx="8" ry="13" fill="#ffcc40" opacity="0.5"/>
+<path d="M644,390 Q800,410 960,400 Q992,398 1024,402" stroke="#c8a860" stroke-width="7" fill="none" opacity="0.6"/>
+<path d="M380,390 Q180,420 60,412 Q30,410 0,415" stroke="#c8a860" stroke-width="7" fill="none" opacity="0.6"/>
+<rect x="432" y="530" width="160" height="46" rx="5" fill="#d4b870" stroke="#a09040" stroke-width="2"/>
+<text x="512" y="551" text-anchor="middle" fill="#4a2800" font-family="serif" font-size="14">玉门关</text>
+<text x="512" y="568" text-anchor="middle" fill="#6a4010" font-family="serif" font-size="11">春风不度玉门关</text>
+<g transform="translate(512,278)"><rect x="-100" y="-22" width="200" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">玉门关 · Jade Gate Pass</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">汉代西域边关 · 丝路西行门户</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">玉门关 · 丝路西行第一关</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">春风不度玉门关 · 千里戍边烽火台</text>
+</svg>

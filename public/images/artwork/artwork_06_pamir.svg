@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g6" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0a1a3a"/><stop offset="40%" stop-color="#1a3a6a"/><stop offset="70%" stop-color="#4a6a9a"/><stop offset="100%" stop-color="#8ab0d0"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g6)"/>
+<path d="M0,340 Q100,195 200,278 Q300,148 400,228 Q500,98 600,198 Q700,128 800,208 Q900,148 1024,218 L1024,768 L0,768Z" fill="#5a7a9a" opacity="0.7"/>
+<path d="M150,278 Q200,198 250,278" fill="white" opacity="0.75"/>
+<path d="M350,228 Q400,148 450,228" fill="white" opacity="0.75"/>
+<path d="M550,198 Q600,98 650,198" fill="white" opacity="0.82"/>
+<path d="M750,208 Q800,128 850,208" fill="white" opacity="0.75"/>
+<path d="M0,448 Q120,298 250,378 Q380,248 512,338 Q640,218 770,318 Q900,248 1024,328 L1024,768 L0,768Z" fill="#6a8a7a"/>
+<path d="M200,378 Q250,298 300,378" fill="white" opacity="0.88"/>
+<path d="M462,338 Q512,238 562,338" fill="white" opacity="0.9"/>
+<path d="M720,318 Q770,218 820,318" fill="white" opacity="0.88"/>
+<path d="M0,578 Q200,548 400,568 Q600,538 800,558 Q900,543 1024,552 L1024 768 L0 768Z" fill="#4a5a4a"/>
+<path d="M150,598 Q400,572 650,588 Q800,580 950,586" stroke="#8a7060" stroke-width="3" fill="none" stroke-dasharray="10,5"/>
+<g transform="translate(300,590)"><g transform="scale(0.52,0.52)">
+  <ellipse cx="0" cy="0" rx="38" ry="21" fill="#8B6914"/>
+  <ellipse cx="-20" cy="-17" rx="11" ry="16" fill="#8B6914"/>
+  <ellipse cx="-25" cy="-33" rx="7" ry="11" fill="#8B6914"/>
+  <ellipse cx="7" cy="-11" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="17" cy="-6" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="27" cy="-1" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="37" cy="5" rx="5" ry="12" fill="#7a5a10"/>
+</g></g>
+<g transform="translate(430,585)"><g transform="scale(0.46,0.46)">
+  <ellipse cx="0" cy="0" rx="38" ry="21" fill="#8B6914"/>
+  <ellipse cx="-20" cy="-17" rx="11" ry="16" fill="#8B6914"/>
+  <ellipse cx="-25" cy="-33" rx="7" ry="11" fill="#8B6914"/>
+  <ellipse cx="7" cy="-11" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="17" cy="-6" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="27" cy="-1" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="37" cy="5" rx="5" ry="12" fill="#7a5a10"/>
+</g></g>
+<g transform="translate(560,592)"><g transform="scale(0.4,0.4)">
+  <ellipse cx="0" cy="0" rx="38" ry="21" fill="#8B6914"/>
+  <ellipse cx="-20" cy="-17" rx="11" ry="16" fill="#8B6914"/>
+  <ellipse cx="-25" cy="-33" rx="7" ry="11" fill="#8B6914"/>
+  <ellipse cx="7" cy="-11" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="17" cy="-6" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="27" cy="-1" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="37" cy="5" rx="5" ry="12" fill="#7a5a10"/>
+</g></g>
+<g transform="translate(512,448)"><rect x="-68" y="-22" width="137" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">帕米尔高原 · Pamir</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">世界屋脊 · 海拔4000+米</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">帕米尔高原 · 世界屋脊商道</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">驼队翻越雪山天险 连接东西方文明</text>
+</svg>

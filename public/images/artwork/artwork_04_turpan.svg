@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g4" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#3a1a0a"/><stop offset="40%" stop-color="#c84820"/><stop offset="70%" stop-color="#f07030"/><stop offset="100%" stop-color="#f0b050"/>
+  </linearGradient>
+  <linearGradient id="mt4" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#cc4010"/><stop offset="50%" stop-color="#e86030"/><stop offset="100%" stop-color="#c84820"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g4)"/>
+<path d="M0,395 Q80,295 160,358 Q240,248 320,318 Q400,198 480,278 Q560,168 640,248 Q720,178 800,238 Q880,158 960,218 Q1000,198 1024,228 L1024,518 L0,518Z" fill="url(#mt4)"/>
+<path d="M0,425 Q100,365 200,398 Q300,348 400,388 Q500,338 600,378 Q700,338 800,368 Q900,328 1024,358 L1024,518 L0,518Z" fill="#d04820" opacity="0.7"/>
+<path d="M0 540 Q200 510 400 530 Q600 500 800 520 Q900 505 1024 512 L1024 768 L0 768Z" fill="#8a4010"/>
+<rect x="100" y="498" width="350" height="200" fill="#1a3a10" opacity="0.7"/>
+<path d="M100,510 L450,510" stroke="#3a5a20" stroke-width="3"/>
+<path d="M100,535 L450,535" stroke="#3a5a20" stroke-width="2"/>
+<path d="M100,560 L450,560" stroke="#3a5a20" stroke-width="2"/>
+<circle cx="150" cy="520" r="5" fill="#6a2080" opacity="0.9"/>
+<circle cx="160" cy="514" r="5" fill="#5a1870" opacity="0.9"/>
+<circle cx="170" cy="520" r="5" fill="#7a2890" opacity="0.9"/>
+<circle cx="250" cy="548" r="5" fill="#6a2080" opacity="0.9"/>
+<circle cx="260" cy="542" r="5" fill="#5a1870" opacity="0.9"/>
+<circle cx="350" cy="528" r="5" fill="#6a2080" opacity="0.9"/>
+<circle cx="360" cy="522" r="5" fill="#7a2890" opacity="0.9"/>
+<circle cx="400" cy="558" r="5" fill="#5a1870" opacity="0.9"/>
+<g transform="translate(275,465)"><rect x="-64" y="-22" width="128" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">吐鲁番 · Turpan</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">火焰山 · 葡萄谷 · 海拔-154m盆地</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">吐鲁番 · 火焰山与葡萄谷</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">《西游记》火焰山原型 · 绿洲农业文明奇迹</text>
+</svg>

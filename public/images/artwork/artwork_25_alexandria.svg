@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g25" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1a3a6a"/><stop offset="60%" stop-color="#4a7ab0"/><stop offset="100%" stop-color="#8ab8d0"/>
+  </linearGradient>
+  <linearGradient id="sea25" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1a5090"/><stop offset="100%" stop-color="#0a2a60"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g25)"/>
+<rect x="0" y="368" width="1024" height="400" fill="url(#sea25)"/>
+<path d="M0,388 Q100,368 200,382 Q300,362 400,376 Q500,356 600,370 Q700,352 800,366 Q900,348 1024,360" stroke="#4a90d0" stroke-width="2" fill="none" opacity="0.6"/>
+<path d="M0,418 Q150,398 300,412 Q450,392 600,406 Q750,388 900,402 Q970,392 1024,396" stroke="#4a90d0" stroke-width="1.5" fill="none" opacity="0.5"/>
+<path d="M0,288 Q200,248 400,268 Q600,238 800,258 Q900,248 1024,258 L1024,368 L0,368Z" fill="#8a7040"/>
+<path d="M0,348 Q200,328 400,338 Q600,318 800,328 Q900,318 1024,322 L1024,368 L0,368Z" fill="#a08050"/>
+<rect x="468" y="78" width="88" height="292" fill="#d4c070" stroke="#b0a040" stroke-width="3"/>
+<rect x="458" y="60" width="108" height="22" fill="#c8b060"/>
+<rect x="448" y="42" width="128" height="22" fill="#d4c070"/>
+<rect x="438" y="24" width="148" height="22" fill="#c8b060"/>
+<rect x="442" y="0" width="140" height="28" fill="#d4c070"/>
+<ellipse cx="512" cy="0" rx="70" ry="14" fill="#c8b060" opacity="0.7"/>
+<path d="M480,0 Q512,-15 544,0" fill="none" stroke="#f0d060" stroke-width="2" opacity="0.6"/>
+<circle cx="512" cy="-8" r="12" fill="#f0d060" opacity="0.9"/>
+<circle cx="512" cy="-8" r="38" fill="none" stroke="#f0d06044" stroke-width="8"/>
+<path d="M468,368 Q300,388 200,378 Q100,368 50,372" stroke="#c8b060" stroke-width="6" fill="none" opacity="0.6"/>
+<path d="M556,368 Q700,388 820,378 Q920,368 970,372" stroke="#c8b060" stroke-width="6" fill="none" opacity="0.6"/>
+<path d="M148,408 Q220,386 292,398 Q282,438 210,435 Q158,432 148,408Z" fill="#3a2010"/>
+<rect x="208" y="366" width="4" height="48" fill="#2a1808"/>
+<path d="M211,368 Q253,380 211,394" fill="#c8a040" opacity="0.8"/>
+<path d="M668,402 Q740,380 812,392 Q802,432 730,429 Q678,426 668,402Z" fill="#3a2010"/>
+<rect x="728" y="360" width="4" height="48" fill="#2a1808"/>
+<path d="M731,362 Q773,374 731,388" fill="#c8a040" opacity="0.8"/>
+<g transform="translate(512,170)"><rect x="-91" y="-22" width="182" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">亚历山大港 · Alexandria</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">古代世界第一灯塔 · 希腊化文明</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">亚历山大港 · 古代世界的知识中心</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">法罗斯灯塔 · 大图书馆 · 东西方文明汇聚</text>
+</svg>

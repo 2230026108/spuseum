@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g12" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1a2a4a"/><stop offset="50%" stop-color="#4a7aaa"/><stop offset="100%" stop-color="#8ab0cc"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g12)"/>
+<path d="M0,438 Q200,418 400,433 Q600,413 800,428 Q900,416 1024,423 L1024,598 Q800,588 600,593 Q400,583 200,590 Q100,586 0,588Z" fill="#1a4a8a" opacity="0.85"/>
+<path d="M100,458 Q300,448 500,456" stroke="#4a90d0" stroke-width="1" fill="none" opacity="0.4"/>
+<path d="M200,478 Q450,466 700,474" stroke="#4a90d0" stroke-width="1" fill="none" opacity="0.4"/>
+<path d="M50,498 Q350,486 650,493 Q850,483 1000,490" stroke="#4a90d0" stroke-width="1" fill="none" opacity="0.3"/>
+<rect x="28" y="308" width="182" height="133" fill="#e8d8c0" stroke="#b0a070" stroke-width="2"/>
+<rect x="48" y="288" width="142" height="23" fill="#d4c0a0" stroke="#a09060" stroke-width="1"/>
+<path d="M68,333 Q90,313 112,333" fill="#a0c0e0"/>
+<path d="M132,333 Q154,313 176,333" fill="#a0c0e0"/>
+<path d="M68,373 Q90,353 112,373" fill="#a0c0e0"/>
+<path d="M132,373 Q154,353 176,373" fill="#a0c0e0"/>
+<rect x="248" y="278" width="212" height="165" fill="#f0e0c0" stroke="#c0b080" stroke-width="2"/>
+<rect x="263" y="258" width="182" height="23" fill="#e0d0b0"/>
+<path d="M283,308 Q309,283 335,308" fill="#b0c8e0"/>
+<path d="M355,308 Q381,283 407,308" fill="#b0c8e0"/>
+<rect x="488" y="178" width="66" height="267" fill="#e8c870"/>
+<rect x="478" y="168" width="86" height="14" fill="#d4b850"/>
+<rect x="474" y="155" width="94" height="14" fill="#e0c060"/>
+<polygon points="474,155 521,108 568,155" fill="#c8a040"/>
+<circle cx="521" cy="103" r="11" fill="#e8c040"/>
+<rect x="618" y="338" width="362" height="107" fill="#f8e8d0" stroke="#c0a870" stroke-width="2"/>
+<path d="M628,445 Q644,423 660,445" fill="#e0d0b0"/>
+<path d="M668,445 Q684,423 700,445" fill="#e0d0b0"/>
+<path d="M708,445 Q724,423 740,445" fill="#e0d0b0"/>
+<path d="M748,445 Q764,423 780,445" fill="#e0d0b0"/>
+<path d="M788,445 Q804,423 820,445" fill="#e0d0b0"/>
+<path d="M828,445 Q844,423 860,445" fill="#e0d0b0"/>
+<path d="M868,445 Q884,423 900,445" fill="#e0d0b0"/>
+<path d="M908,445 Q924,423 940,445" fill="#e0d0b0"/>
+<path d="M120,528 Q200,508 280,523 Q260,553 180,550 Q140,548 120,528Z" fill="#1a1010"/>
+<rect x="175" y="486" width="4" height="48" fill="#3a2010"/>
+<path d="M178,487 Q220,498 178,510" fill="#c0a050" opacity="0.75"/>
+<g transform="translate(512,248)"><rect x="-64" y="-22" width="128" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">威尼斯 · Venice</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">马可·波罗故乡 · 丝路西端终点</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">威尼斯 · 丝路西端的海洋共和国</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">马可·波罗从这里出发 开启东西方传奇</text>
+</svg>

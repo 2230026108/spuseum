@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <radialGradient id="g34" cx="0.5" cy="0.5" r="0.8">
+    <stop offset="0%" stop-color="#0a0a25"/><stop offset="100%" stop-color="#020210"/>
+  </radialGradient>
+  <filter id="glow34"><feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1024" height="768" fill="url(#g34)"/>
+<circle cx="512" cy="338" r="188" fill="none" stroke="#6020e044" stroke-width="2" filter="url(#glow34)"/>
+<circle cx="512" cy="338" r="148" fill="none" stroke="#6020e033" stroke-width="1.5"/>
+<circle cx="512" cy="338" r="108" fill="none" stroke="#6020e022" stroke-width="1"/>
+<circle cx="512" cy="338" r="68" fill="none" stroke="#6020e022" stroke-width="1"/>
+<circle cx="512" cy="338" r="28" fill="#4010c0" opacity="0.6" filter="url(#glow34)"/>
+<text x="512" y="344" text-anchor="middle" fill="#c0a0f0" font-family="serif" font-size="13" font-weight="bold">AI</text>
+<circle cx="512" cy="148" r="20" fill="#8030d0" opacity="0.8" filter="url(#glow34)"/>
+<text x="512" y="154" text-anchor="middle" fill="#c0a0f0" font-size="11">大模型</text>
+<circle cx="690" cy="218" r="20" fill="#8030d0" opacity="0.8" filter="url(#glow34)"/>
+<text x="690" y="224" text-anchor="middle" fill="#c0a0f0" font-size="11">5G</text>
+<circle cx="700" cy="448" r="20" fill="#8030d0" opacity="0.8" filter="url(#glow34)"/>
+<text x="700" y="454" text-anchor="middle" fill="#c0a0f0" font-size="11">算力</text>
+<circle cx="512" cy="518" r="20" fill="#8030d0" opacity="0.8" filter="url(#glow34)"/>
+<text x="512" y="524" text-anchor="middle" fill="#c0a0f0" font-size="11">区块链</text>
+<circle cx="322" cy="448" r="20" fill="#8030d0" opacity="0.8" filter="url(#glow34)"/>
+<text x="322" y="454" text-anchor="middle" fill="#c0a0f0" font-size="11">云计算</text>
+<circle cx="332" cy="218" r="20" fill="#8030d0" opacity="0.8" filter="url(#glow34)"/>
+<text x="332" y="224" text-anchor="middle" fill="#c0a0f0" font-size="11">IoT</text>
+<path d="M512,162 L512,310" stroke="#8030d066" stroke-width="2" fill="none" filter="url(#glow34)"/>
+<path d="M676,230 L548,310" stroke="#8030d066" stroke-width="2" fill="none" filter="url(#glow34)"/>
+<path d="M684,440 L548,366" stroke="#8030d066" stroke-width="2" fill="none" filter="url(#glow34)"/>
+<path d="M512,504 L512,366" stroke="#8030d066" stroke-width="2" fill="none" filter="url(#glow34)"/>
+<path d="M334,440 L476,366" stroke="#8030d066" stroke-width="2" fill="none" filter="url(#glow34)"/>
+<path d="M346,230 L476,310" stroke="#8030d066" stroke-width="2" fill="none" filter="url(#glow34)"/>
+<rect x="168" y="608" width="688" height="95" rx="6" fill="#06060ecc" stroke="#8030d055" stroke-width="1"/>
+<text x="512" y="640" text-anchor="middle" fill="#c0a0f0" font-family="serif" font-size="18" font-weight="bold">5G · AI · 数字文明基础设施</text>
+<text x="512" y="665" text-anchor="middle" fill="#a080d099" font-family="serif" font-size="13">如同汉代修建的驿站与烽火台</text>
+<text x="512" y="688" text-anchor="middle" fill="#a080d099" font-family="serif" font-size="13">支撑着新时代的文明连接</text>
+<g transform="translate(512,155)"><rect x="-73" y="-22" width="146" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">5G · AI · 数字文明</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">现代丝路的信息基础设施</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">5G与人工智能 · 数字文明的基石</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">技术连接代替驼队 算法代替地图导航</text>
+</svg>

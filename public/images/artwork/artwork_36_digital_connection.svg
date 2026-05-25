@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g36" x1="0" y1="1" x2="1" y2="0">
+    <stop offset="0%" stop-color="#020208"/><stop offset="100%" stop-color="#080820"/>
+  </linearGradient>
+  <filter id="glow36"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1024" height="768" fill="url(#g36)"/>
+<path d="M0,108 Q200,58 400,88 Q600,48 800,68 Q900,52 1024,62" stroke="white" stroke-width="18" fill="none" opacity="0.035"/>
+<circle cx="120" cy="298" r="48" fill="#0a1830" stroke="#4080c0" stroke-width="1.5" opacity="0.8"/>
+<text x="120" y="293" text-anchor="middle" fill="#6090d0" font-size="24">🏛️</text>
+<text x="120" y="315" text-anchor="middle" fill="#6090d0" font-family="serif" font-size="11">传统博物馆</text>
+<circle cx="120" cy="518" r="48" fill="#0a1830" stroke="#4080c0" stroke-width="1.5" opacity="0.8"/>
+<text x="120" y="513" text-anchor="middle" fill="#6090d0" font-size="24">🏺</text>
+<text x="120" y="535" text-anchor="middle" fill="#6090d0" font-family="serif" font-size="11">实体文物</text>
+<circle cx="512" cy="198" r="52" fill="#0a1030" stroke="#8040e0" stroke-width="2" filter="url(#glow36)"/>
+<text x="512" y="190" text-anchor="middle" fill="#a060e0" font-size="28">🌐</text>
+<text x="512" y="218" text-anchor="middle" fill="#a060e0" font-family="serif" font-size="12" font-weight="bold">数字平台</text>
+<circle cx="512" cy="468" r="52" fill="#0a1030" stroke="#8040e0" stroke-width="2" filter="url(#glow36)"/>
+<text x="512" y="460" text-anchor="middle" fill="#a060e0" font-size="28">🤖</text>
+<text x="512" y="488" text-anchor="middle" fill="#a060e0" font-family="serif" font-size="12" font-weight="bold">AI助手</text>
+<circle cx="904" cy="298" r="48" fill="#0a1830" stroke="#40c080" stroke-width="1.5" opacity="0.8"/>
+<text x="904" y="293" text-anchor="middle" fill="#40c080" font-size="24">👨‍💻</text>
+<text x="904" y="315" text-anchor="middle" fill="#40c080" font-family="serif" font-size="11">全球学者</text>
+<circle cx="904" cy="518" r="48" fill="#0a1830" stroke="#40c080" stroke-width="1.5" opacity="0.8"/>
+<text x="904" y="513" text-anchor="middle" fill="#40c080" font-size="24">🎓</text>
+<text x="904" y="535" text-anchor="middle" fill="#40c080" font-family="serif" font-size="11">公众访问</text>
+<path d="M168,298 Q320,248 460,198" stroke="#6080c0" stroke-width="2" fill="none" filter="url(#glow36)" opacity="0.7"/>
+<path d="M168,518 Q320,498 460,468" stroke="#6080c0" stroke-width="2" fill="none" filter="url(#glow36)" opacity="0.7"/>
+<path d="M564,198 Q740,248 856,298" stroke="#6080c0" stroke-width="2" fill="none" filter="url(#glow36)" opacity="0.7"/>
+<path d="M564,468 Q740,498 856,518" stroke="#6080c0" stroke-width="2" fill="none" filter="url(#glow36)" opacity="0.7"/>
+<path d="M512,250 L512,416" stroke="#8040e0" stroke-width="2" fill="none" filter="url(#glow36)" opacity="0.8" stroke-dasharray="8,4"/>
+<circle cx="512" cy="338" r="22" fill="#1a0840" stroke="#8040e0" stroke-width="1.5" filter="url(#glow36)"/>
+<text x="512" y="344" text-anchor="middle" fill="#c0a0f0" font-family="serif" font-size="11">连接</text>
+<g transform="translate(512,155)"><rect x="-104" y="-22" width="209" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">数字连接 · Digital Bridge</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">让历史跨越时空触达每个人</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">数字平台 · 跨越时空的文明桥梁</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">打破地域界限 任何人都能访问人类共同遗产</text>
+</svg>

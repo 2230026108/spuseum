@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g13" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1a3a5a"/><stop offset="50%" stop-color="#3a6a9a"/><stop offset="100%" stop-color="#6a9ab0"/>
+  </linearGradient>
+  <linearGradient id="sea13" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1a5080"/><stop offset="100%" stop-color="#0a2a50"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g13)"/>
+<path d="M0,378 Q200,358 400,373 Q600,353 800,368 Q900,358 1024,363 L1024,768 L0,768Z" fill="url(#sea13)"/>
+<path d="M50,398 Q150,386 250,396 Q350,383 450,393" stroke="#5aaad0" stroke-width="1.5" fill="none" opacity="0.6"/>
+<path d="M300,418 Q450,406 600,416 Q750,404 900,414" stroke="#5aaad0" stroke-width="1.5" fill="none" opacity="0.5"/>
+<path d="M100,443 Q300,431 500,440 Q700,426 950,436" stroke="#5aaad0" stroke-width="1.5" fill="none" opacity="0.4"/>
+<rect x="0" y="248" width="352" height="133" fill="#c8a050" stroke="#a07830" stroke-width="2"/>
+<rect x="0" y="228" width="352" height="23" fill="#b89040"/>
+<rect x="18" y="298" width="52" height="72" rx="3" fill="#d4b060"/>
+<rect x="88" y="308" width="52" height="62" rx="3" fill="#c8a050"/>
+<rect x="158" y="293" width="52" height="77" rx="3" fill="#d8b060"/>
+<rect x="398" y="278" width="82" height="102" fill="#c04010"/>
+<rect x="388" y="263" width="102" height="18" fill="#d04818"/>
+<rect x="378" y="246" width="122" height="18" fill="#c04010"/>
+<rect x="393" y="231" width="92" height="16" fill="#d04818"/>
+<rect x="403" y="218" width="72" height="14" fill="#c04010"/>
+<rect x="413" y="206" width="52" height="12" fill="#d04818"/>
+<rect x="422" y="195" width="34" height="12" fill="#c04010"/>
+<rect x="430" y="184" width="18" height="12" fill="#d04818"/>
+<path d="M548,388 Q620,368 692,378 Q682,418 612,416 Q568,413 548,388Z" fill="#4a2810"/>
+<rect x="608" y="348" width="4" height="47" fill="#2a1808"/>
+<path d="M611,349 Q651,360 611,373" fill="#8a6040" opacity="0.85"/>
+<path d="M748,373 Q800,360 852,368 Q846,396 796,394 Q762,392 748,373Z" fill="#3a2008" opacity="0.8"/>
+<rect x="793" y="343" width="3" height="36" fill="#2a1808" opacity="0.8"/>
+<path d="M795,344 Q825,353 795,362" fill="#8a6040" opacity="0.6"/>
+<path d="M148,433 Q230,416 312,426 Q300,466 220,463 Q166,460 148,433Z" fill="#3a2010" opacity="0.9"/>
+<rect x="220" y="390" width="4" height="48" fill="#2a1808"/>
+<path d="M223,391 Q266,403 223,416" fill="#8a6040" opacity="0.8"/>
+<g transform="translate(512,288)"><rect x="-73" y="-22" width="146" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">广州 · Guangzhou</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">海上丝绸之路起点 · 唐宋第一港</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">广州港 · 海上丝路出发地</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">大唐番禺 · 东方第一贸易港口</text>
+</svg>

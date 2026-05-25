@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <radialGradient id="dv17" cx="0.5" cy="0.3" r="0.7">
+    <stop offset="0%" stop-color="#f5d06044"/><stop offset="100%" stop-color="#0a0a1500"/>
+  </radialGradient>
+  <linearGradient id="g17" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0a0a20"/><stop offset="100%" stop-color="#2a1a0a"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g17)"/>
+<ellipse cx="512" cy="298" rx="302" ry="252" fill="url(#dv17)"/>
+<ellipse cx="512" cy="278" rx="62" ry="77" fill="#f0d08044"/>
+<circle cx="512" cy="218" r="36" fill="#f0d0a0"/>
+<circle cx="512" cy="196" r="16" fill="#d4b870"/>
+<circle cx="512" cy="186" r="9" fill="#c8a860"/>
+<circle cx="512" cy="218" r="62" fill="none" stroke="#f0d06066" stroke-width="3"/>
+<circle cx="512" cy="218" r="57" fill="none" stroke="#f0d06033" stroke-width="8"/>
+<ellipse cx="512" cy="378" rx="122" ry="31" fill="#d4a05044"/>
+<path d="M390,378 Q420,358 452,373 Q482,353 512,366 Q542,353 572,373 Q604,358 634,378" stroke="#d4a050" stroke-width="2" fill="none" opacity="0.6"/>
+<path d="M463,263 Q438,318 443,378 Q478,398 512,393 Q546,398 581,378 Q586,318 561,263" fill="#ff8020" opacity="0.4"/>
+<path d="M148,548 Q350,498 512,478 Q682,458 902,508" stroke="#f0d06066" stroke-width="3" fill="none" stroke-dasharray="10,8"/>
+<circle cx="148" cy="548" r="13" fill="#f0a030" opacity="0.8"/>
+<text x="148" y="578" text-anchor="middle" fill="#f0d08088" font-family="serif" font-size="14">印度</text>
+<circle cx="512" cy="478" r="13" fill="#f0a030" opacity="0.8"/>
+<text x="512" y="508" text-anchor="middle" fill="#f0d08088" font-family="serif" font-size="14">敦煌</text>
+<circle cx="902" cy="508" r="13" fill="#f0a030" opacity="0.8"/>
+<text x="902" y="538" text-anchor="middle" fill="#f0d08088" font-family="serif" font-size="14">长安</text>
+<text x="198" y="278" fill="#f0d07044" font-size="24" transform="rotate(-15,198,278)">ॐ</text>
+<text x="798" y="298" fill="#f0d07044" font-size="24" transform="rotate(10,798,298)">卍</text>
+<text x="298" y="398" fill="#f0d07033" font-family="serif" font-size="18">南无阿弥陀佛</text>
+<g transform="translate(512,163)"><rect x="-28" y="-22" width="56" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">佛法东传</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">公元1世纪 · 丝路精神文明</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">佛法东传 · 精神文明的丝绸之路</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">佛教经丝路传入中国 深刻改变中华文明</text>
+</svg>

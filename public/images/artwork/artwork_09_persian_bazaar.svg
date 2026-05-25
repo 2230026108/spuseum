@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g9" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#2a1a3a"/><stop offset="40%" stop-color="#5a3a7a"/><stop offset="70%" stop-color="#9a6a9a"/><stop offset="100%" stop-color="#d4a860"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g9)"/>
+<rect x="0" y="558" width="1024" height="210" fill="#b09060"/>
+<path d="M0,198 Q256,148 512,178 Q768,148 1024,198 L1024,558 L0,558Z" fill="#3a2a1a" opacity="0.9"/>
+<path d="M0,248 Q256,168 512,208 Q768,168 1024,248" stroke="#6a5030" stroke-width="4" fill="none" opacity="0.7"/>
+<path d="M0,308 Q256,238 512,268 Q768,238 1024,308" stroke="#6a5030" stroke-width="3" fill="none" opacity="0.6"/>
+<path d="M0,378 Q256,318 512,348 Q768,318 1024,378" stroke="#6a5030" stroke-width="3" fill="none" opacity="0.5"/>
+<path d="M198,178 L238,558" stroke="#f0d08030" stroke-width="30" fill="none"/>
+<path d="M512,168 L512,558" stroke="#f0d08018" stroke-width="40" fill="none"/>
+<path d="M798,178 L778,558" stroke="#f0d08030" stroke-width="30" fill="none"/>
+<rect x="48" y="378" width="252" height="182" fill="#e8d0a0" stroke="#a08040" stroke-width="1"/>
+<rect x="53" y="358" width="242" height="24" fill="#c04020" opacity="0.8"/>
+<ellipse cx="98" cy="438" rx="36" ry="12" fill="#c84010"/>
+<ellipse cx="158" cy="438" rx="36" ry="12" fill="#f0a030"/>
+<ellipse cx="218" cy="438" rx="36" ry="12" fill="#e0c020"/>
+<text x="98" y="434" text-anchor="middle" fill="#fff" font-size="10">辣椒</text>
+<text x="158" y="434" text-anchor="middle" fill="#fff" font-size="10">肉桂</text>
+<text x="218" y="434" text-anchor="middle" fill="#fff" font-size="10">姜黄</text>
+<rect x="722" y="378" width="252" height="182" fill="#e0c890" stroke="#a08040" stroke-width="1"/>
+<rect x="722" y="358" width="252" height="24" fill="#2060a0" opacity="0.8"/>
+<rect x="732" y="383" width="32" height="122" fill="#e83030" opacity="0.7"/>
+<rect x="774" y="383" width="32" height="122" fill="#3030e8" opacity="0.7"/>
+<rect x="816" y="383" width="32" height="122" fill="#30a030" opacity="0.7"/>
+<rect x="858" y="383" width="32" height="122" fill="#c0a020" opacity="0.7"/>
+<rect x="900" y="383" width="32" height="122" fill="#a030a0" opacity="0.7"/>
+<circle cx="428" cy="498" r="12" fill="#3a2010"/>
+<rect x="420" y="510" width="16" height="40" rx="5" fill="#3a2010"/>
+<circle cx="578" cy="493" r="12" fill="#2a1808"/>
+<rect x="570" y="505" width="16" height="40" rx="5" fill="#2a1808"/>
+<g transform="translate(512,438)"><rect x="-104" y="-22" width="209" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">波斯集市 · Persian Bazaar</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">尼沙普尔 · 香料珠宝中转站</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">波斯集市 · 香料与珠宝的王国</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">中东枢纽 · 连接东西方的商贸通道</text>
+</svg>

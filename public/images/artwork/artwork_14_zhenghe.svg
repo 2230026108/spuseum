@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g14" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1a3a5a"/><stop offset="50%" stop-color="#2a5a8a"/><stop offset="100%" stop-color="#4a80a0"/>
+  </linearGradient>
+  <linearGradient id="sea14" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1a5080"/><stop offset="100%" stop-color="#0a2a50"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g14)"/>
+<rect x="0" y="318" width="1024" height="450" fill="url(#sea14)"/>
+<path d="M0,338 Q80,323 160,336 Q240,320 320,334 Q400,318 480,332 Q560,316 640,330 Q720,314 800,328 Q880,312 1024,324" stroke="#3a80b0" stroke-width="2" fill="none" opacity="0.7"/>
+<path d="M0,378 Q100,360 200,374 Q300,356 400,370 Q500,353 600,367 Q700,350 800,364 Q900,348 1024,360" stroke="#3a80b0" stroke-width="1.5" fill="none" opacity="0.5"/>
+<path d="M278,378 Q350,348 512,338 Q674,348 746,378 Q762,428 746,458 Q674,468 512,473 Q350,468 278,458 Q262,428 278,378Z" fill="#3a1808"/>
+<rect x="378" y="283" width="268" height="60" fill="#4a2010"/>
+<rect x="398" y="263" width="228" height="23" fill="#3a1808"/>
+<rect x="503" y="178" width="16" height="173" fill="#2a1008"/>
+<path d="M519,180 L742,228 L742,350 L519,350Z" fill="#cc2010" opacity="0.9"/>
+<path d="M519,214 L740,248" stroke="#880808" stroke-width="2"/>
+<path d="M519,248 L740,280" stroke="#880808" stroke-width="2"/>
+<path d="M519,283 L740,310" stroke="#880808" stroke-width="2"/>
+<path d="M519,316 L740,336" stroke="#880808" stroke-width="2"/>
+<rect x="388" y="198" width="11" height="148" fill="#2a1008"/>
+<path d="M399,200 L562,236 L562,342 L399,342Z" fill="#c82008" opacity="0.85"/>
+<path d="M399,226 L560,252" stroke="#800808" stroke-width="1.5"/>
+<path d="M399,256 L560,276" stroke="#800808" stroke-width="1.5"/>
+<path d="M399,286 L560,302" stroke="#800808" stroke-width="1.5"/>
+<rect x="633" y="208" width="11" height="138" fill="#2a1008"/>
+<path d="M644,210 L782,243 L782,338 L644,338Z" fill="#c01808" opacity="0.8"/>
+<path d="M510,178 Q540,168 562,173 Q547,183 532,186 Q537,176 510,178Z" fill="#f0d030"/>
+<circle cx="448" cy="293" r="8" fill="#ff6010" opacity="0.8"/>
+<circle cx="568" cy="288" r="8" fill="#ff6010" opacity="0.8"/>
+<path d="M98,408 Q170,386 242,398 Q232,438 162,436 Q110,433 98,408Z" fill="#2a1008" opacity="0.8"/>
+<rect x="158" y="366" width="4" height="48" fill="#1a0808" opacity="0.8"/>
+<path d="M161,368 Q222,383 161,398" fill="#c02010" opacity="0.75"/>
+<path d="M798,403 Q870,381 942,393 Q932,433 862,431 Q812,428 798,403Z" fill="#2a1008" opacity="0.8"/>
+<rect x="858" y="361" width="4" height="48" fill="#1a0808" opacity="0.8"/>
+<path d="M861,363 Q922,378 861,393" fill="#c02010" opacity="0.75"/>
+<rect x="488" y="168" width="32" height="21" fill="#f0d030" opacity="0.9"/>
+<text x="504" y="182" text-anchor="middle" fill="#cc2010" font-size="10">明</text>
+<g transform="translate(512,278)"><rect x="-77" y="-22" width="155" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">郑和宝船 · Zheng He</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">1405-1433 · 七次下西洋</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">郑和宝船 · 海上丝路的巅峰</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">永乐年间 七下西洋 最远抵达东非海岸</text>
+</svg>

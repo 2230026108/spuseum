@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g29" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1a1a3a"/><stop offset="50%" stop-color="#2a3a6a"/><stop offset="100%" stop-color="#5a5a9a"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g29)"/>
+<circle cx="88" cy="68" r="2" fill="white" opacity="0.8"/>
+<circle cx="200" cy="48" r="1.5" fill="white" opacity="0.6"/>
+<circle cx="400" cy="75" r="2" fill="white" opacity="0.9"/>
+<circle cx="600" cy="42" r="1.5" fill="white" opacity="0.7"/>
+<circle cx="780" cy="60" r="2" fill="white" opacity="0.8"/>
+<circle cx="920" cy="85" r="1.5" fill="white" opacity="0.6"/>
+<rect x="0" y="498" width="1024" height="270" fill="#4a3a28"/>
+<rect x="0" y="478" width="1024" height="22" fill="#5a4a38"/>
+<rect x="108" y="228" width="808" height="268" rx="6" fill="#1a1820cc" stroke="#d4a04066" stroke-width="1"/>
+<circle cx="512" cy="498" r="140" fill="#1a3050aa"/>
+<path d="M100,498 Q250,455 512,478 Q750,455 924,498" stroke="#f0d06099" stroke-width="2.5" fill="none" stroke-dasharray="8,5"/>
+<circle cx="100" cy="498" r="10" fill="#d4a050" opacity="0.8"/>
+<text x="100" y="528" text-anchor="middle" fill="#f0d08088" font-family="serif" font-size="13">威尼斯</text>
+<circle cx="320" cy="470" r="8" fill="#c8a040" opacity="0.7"/>
+<text x="320" y="492" text-anchor="middle" fill="#f0d08066" font-family="serif" font-size="11">君士坦丁堡</text>
+<circle cx="512" cy="465" r="8" fill="#c8a040" opacity="0.7"/>
+<text x="512" y="487" text-anchor="middle" fill="#f0d08066" font-family="serif" font-size="11">波斯</text>
+<circle cx="720" cy="472" r="8" fill="#c8a040" opacity="0.7"/>
+<text x="720" y="494" text-anchor="middle" fill="#f0d08066" font-family="serif" font-size="11">忽必烈大汗</text>
+<circle cx="924" cy="498" r="10" fill="#d4a050" opacity="0.8"/>
+<text x="924" y="528" text-anchor="middle" fill="#f0d08088" font-family="serif" font-size="13">元大都</text>
+<text x="512" y="270" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="28" font-weight="bold">马可·波罗游记</text>
+<text x="512" y="305" text-anchor="middle" fill="#f0d08099" font-family="serif" font-size="15">MILIONE · IL DIVISAMENT DOU MONDE</text>
+<rect x="248" y="325" width="528" height="130" rx="5" fill="#0a0a1a88" stroke="#d4a04044" stroke-width="1"/>
+<text x="512" y="355" text-anchor="middle" fill="#f0d08099" font-family="serif" font-size="14">1271年 17岁的马可·波罗随父出发</text>
+<text x="512" y="378" text-anchor="middle" fill="#f0d08099" font-family="serif" font-size="14">历经3年半 抵达元大都</text>
+<text x="512" y="401" text-anchor="middle" fill="#f0d08099" font-family="serif" font-size="14">服务忽必烈大汗17年</text>
+<text x="512" y="424" text-anchor="middle" fill="#d4a060bb" font-family="serif" font-size="13">其游记让欧洲人第一次真正认识中国</text>
+<g transform="translate(512,255)"><rect x="-91" y="-22" width="182" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">马可·波罗 · Marco Polo</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">1271-1295 · 威尼斯旅行家</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">马可·波罗 · 打开东西方之窗</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">其游记激发了欧洲探索东方的热情</text>
+</svg>

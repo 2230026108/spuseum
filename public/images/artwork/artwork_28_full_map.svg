@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g28" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0a1a3a"/><stop offset="100%" stop-color="#1a3060"/>
+  </linearGradient>
+  <filter id="gf28">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1024" height="768" fill="url(#g28)"/>
+<rect x="38" y="118" width="948" height="555" rx="5" fill="#0d1a2a" stroke="#f0c87033" stroke-width="1"/>
+<text x="512" y="108" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="18" opacity="0.6">SILK ROAD · 丝绸之路 · 全程路线图</text>
+<path d="M95,305 Q190,290 285,295 Q380,282 470,288 Q565,278 635,295 Q705,285 775,302 Q845,298 915,308" stroke="#f0c870bb" stroke-width="3" fill="none" stroke-dasharray="8,4" filter="url(#gf28)"/>
+<path d="M285,295 Q310,320 330,338 Q355,358 390,368 Q430,375 470,368 Q510,362 545,368 Q575,375 610,368 Q650,358 685,368 Q725,378 775,368 Q820,358 860,368 Q900,378 940,368" stroke="#f0c87077" stroke-width="2" fill="none" stroke-dasharray="5,6"/>
+<circle cx="95" cy="305" r="7" fill="#f0d060" filter="url(#gf28)"/>
+<text x="95" y="293" text-anchor="middle" fill="#f0d060" font-family="serif" font-size="12">长安</text>
+<circle cx="285" cy="295" r="6" fill="#e0c050"/>
+<text x="285" y="283" text-anchor="middle" fill="#e0c050" font-family="serif" font-size="11">敦煌</text>
+<circle cx="380" cy="282" r="5" fill="#d0b040"/>
+<text x="380" y="270" text-anchor="middle" fill="#d0b040" font-family="serif" font-size="11">喀什</text>
+<circle cx="470" cy="288" r="5" fill="#d0b040"/>
+<text x="470" y="276" text-anchor="middle" fill="#d0b040" font-family="serif" font-size="11">撒马尔罕</text>
+<circle cx="635" cy="295" r="5" fill="#d0b040"/>
+<text x="635" y="283" text-anchor="middle" fill="#d0b040" font-family="serif" font-size="11">波斯</text>
+<circle cx="775" cy="302" r="6" fill="#e0c050"/>
+<text x="775" y="290" text-anchor="middle" fill="#e0c050" font-family="serif" font-size="11">巴格达</text>
+<circle cx="915" cy="308" r="7" fill="#f0d060" filter="url(#gf28)"/>
+<text x="915" y="296" text-anchor="middle" fill="#f0d060" font-family="serif" font-size="12">罗马</text>
+<path d="M95,305 Q150,350 200,368 Q250,388 310,418 Q370,448 420,468 Q470,488 540,508 Q600,525 660,518 Q720,508 770,518 Q820,528 870,538 Q910,545 940,548" stroke="#80c8f0aa" stroke-width="2.5" fill="none" stroke-dasharray="6,5"/>
+<circle cx="150" cy="430" r="4" fill="#80c8f0"/>
+<text x="150" y="448" text-anchor="middle" fill="#80c8f0" font-family="serif" font-size="10">广州</text>
+<circle cx="310" cy="450" r="4" fill="#80c8f0"/>
+<text x="310" y="465" text-anchor="middle" fill="#80c8f0" font-family="serif" font-size="10">马六甲</text>
+<circle cx="520" cy="505" r="4" fill="#80c8f0"/>
+<text x="520" y="520" text-anchor="middle" fill="#80c8f0" font-family="serif" font-size="10">印度洋</text>
+<circle cx="800" cy="520" r="4" fill="#80c8f0"/>
+<text x="800" y="535" text-anchor="middle" fill="#80c8f0" font-family="serif" font-size="10">波斯湾</text>
+<rect x="68" y="618" width="200" height="38" rx="4" fill="#0a1a2a88" stroke="#f0c87055" stroke-width="1"/>
+<line x1="78" y1="632" x2="118" y2="632" stroke="#f0c870" stroke-width="2" stroke-dasharray="5,3"/>
+<text x="128" y="636" fill="#f0d080" font-family="serif" font-size="12">陆上丝绸之路</text>
+<rect x="68" y="660" width="200" height="38" rx="4" fill="#0a1a2a88" stroke="#80c8f055" stroke-width="1"/>
+<line x1="78" y1="674" x2="118" y2="674" stroke="#80c8f0" stroke-width="2" stroke-dasharray="5,3"/>
+<text x="128" y="678" fill="#80c8f0" font-family="serif" font-size="12">海上丝绸之路</text>
+<g transform="translate(512,145)"><rect x="-64" y="-22" width="128" height="22" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">丝绸之路 · 全程路线图</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">丝绸之路全图 · 陆路与海路</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">横贯亚欧大陆 连接东西方文明的贸易走廊</text>
+</svg>

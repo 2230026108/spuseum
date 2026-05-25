@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g32" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#020212"/><stop offset="100%" stop-color="#040820"/>
+  </linearGradient>
+  <filter id="glow32"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1024" height="768" fill="url(#g32)"/>
+<rect x="0" y="280" width="1024" height="488" fill="#0a1a30" opacity="0.85"/>
+<path d="M0,320 Q200,308 400,318 Q600,305 800,315 Q900,308 1024,312" stroke="#2a5080" stroke-width="2" fill="none" opacity="0.5"/>
+<path d="M0,380 Q250,368 500,378 Q750,365 1024,372" stroke="#2a5080" stroke-width="1.5" fill="none" opacity="0.4"/>
+<path d="M0,450 Q300,438 600,448 Q800,435 1024,442" stroke="#2a5080" stroke-width="1.5" fill="none" opacity="0.35"/>
+<path d="M120,280 Q200,380 260,450 Q320,520 350,580 Q380,638 400,700" stroke="#20d080" stroke-width="2.5" fill="none" filter="url(#glow32)" opacity="0.8"/>
+<path d="M120,280 Q250,310 400,320 Q550,330 680,338 Q800,348 920,338" stroke="#20d080" stroke-width="2.5" fill="none" filter="url(#glow32)" opacity="0.8"/>
+<path d="M400,320 Q420,380 430,440 Q440,500 450,560" stroke="#20d080" stroke-width="2" fill="none" filter="url(#glow32)" opacity="0.6"/>
+<path d="M680,338 Q700,390 710,448 Q720,508 730,558" stroke="#20d080" stroke-width="2" fill="none" filter="url(#glow32)" opacity="0.6"/>
+<path d="M900,260 Q860,310 840,380 Q820,450 800,520" stroke="#20a0e0" stroke-width="2" fill="none" filter="url(#glow32)" opacity="0.7"/>
+<path d="M900,260 Q940,310 960,380 Q980,450 990,520" stroke="#20a0e0" stroke-width="2" fill="none" filter="url(#glow32)" opacity="0.7"/>
+<circle cx="120" cy="280" r="12" fill="#20d080" filter="url(#glow32)" opacity="0.9"/>
+<circle cx="900" cy="260" r="12" fill="#20a0e0" filter="url(#glow32)" opacity="0.9"/>
+<circle cx="400" cy="320" r="8" fill="#20d080" opacity="0.7"/>
+<circle cx="680" cy="338" r="8" fill="#20d080" opacity="0.7"/>
+<text x="120" y="263" text-anchor="middle" fill="#20d080" font-family="serif" font-size="13">上海</text>
+<text x="900" y="243" text-anchor="middle" fill="#20a0e0" font-family="serif" font-size="13">伦敦</text>
+<text x="400" y="305" text-anchor="middle" fill="#20d080" font-family="serif" font-size="11">新加坡</text>
+<text x="680" y="323" text-anchor="middle" fill="#20d080" font-family="serif" font-size="11">迪拜</text>
+<rect x="248" y="135" width="528" height="110" rx="6" fill="#040820cc" stroke="#20d08055" stroke-width="1"/>
+<text x="512" y="170" text-anchor="middle" fill="#20d080" font-family="serif" font-size="18" font-weight="bold">海底光缆网络</text>
+<text x="512" y="196" text-anchor="middle" fill="#20d08099" font-family="serif" font-size="13">全球430+条海底光缆</text>
+<text x="512" y="218" text-anchor="middle" fill="#20d08099" font-family="serif" font-size="13">承载99%的国际互联网流量</text>
+<text x="512" y="238" text-anchor="middle" fill="#1890c888" font-family="serif" font-size="12">现代海上丝绸之路的数字版本</text>
+<g transform="translate(512,148)"><rect x="-109" y="-22" width="218" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">海底光缆 · Undersea Cables</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">数字信息的现代海上丝路</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">海底光缆 · 数字信息的丝绸之路</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">承载全球互联网流量的海底神经网络</text>
+</svg>

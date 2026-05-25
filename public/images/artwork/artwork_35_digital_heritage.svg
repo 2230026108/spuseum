@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <radialGradient id="g35" cx="0.5" cy="0.4" r="0.8">
+    <stop offset="0%" stop-color="#0a1520"/><stop offset="100%" stop-color="#040810"/>
+  </radialGradient>
+  <filter id="glow35"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1024" height="768" fill="url(#g35)"/>
+<rect x="58" y="168" width="908" height="508" rx="8" fill="#080e18" stroke="#2a5080" stroke-width="1"/>
+<rect x="78" y="188" width="428" height="468" rx="5" fill="#0a1520"/>
+<rect x="78" y="188" width="428" height="468" rx="5" fill="none" stroke="#2a4060" stroke-width="1"/>
+<ellipse cx="292" cy="328" rx="148" ry="198" fill="#c89040" opacity="0.08"/>
+<g transform="translate(292,298)">
+  <ellipse cx="0" cy="0" rx="58" ry="72" fill="#d4a05022"/>
+  <circle cx="0" cy="-20" r="32" fill="#f0d0a0" opacity="0.7"/>
+  <circle cx="0" cy="-20" r="62" fill="none" stroke="#f0d06055" stroke-width="2"/>
+  <path d="M-48,-8 Q-68,-35 -55,-52" stroke="#f5d09055" stroke-width="2" fill="none"/>
+  <path d="M48,-8 Q68,-35 55,-52" stroke="#f5d09055" stroke-width="2" fill="none"/>
+</g>
+<rect x="248" y="448" width="88" height="38" rx="3" fill="#0a1a2a" stroke="#2a50803" stroke-width="1"/>
+<path d="M248,448 Q292,438 336,448" stroke="#4080c0" stroke-width="1" fill="none" opacity="0.5"/>
+<path d="M248,456 Q292,446 336,456" stroke="#4080c0" stroke-width="1" fill="none" opacity="0.4"/>
+<path d="M248,464 Q292,454 336,464" stroke="#4080c0" stroke-width="1" fill="none" opacity="0.3"/>
+<path d="M248,472 Q292,462 336,472" stroke="#4080c0" stroke-width="1" fill="none" opacity="0.2"/>
+<text x="292" y="520" text-anchor="middle" fill="#4080c0" font-family="serif" font-size="12">3D扫描重建</text>
+<text x="78" y="682" text-anchor="middle" fill="#4080c099" font-family="serif" font-size="11">VR 沉浸体验</text>
+<text x="428" y="682" text-anchor="middle" fill="#4080c099" font-family="serif" font-size="11">AI 色彩修复</text>
+<rect x="526" y="188" width="418" height="215" rx="4" fill="#060e18"/>
+<rect x="536" y="198" width="398" height="195" rx="3" fill="#080808"/>
+<text x="735" y="275" text-anchor="middle" fill="#20c080" font-family="serif" font-size="14" opacity="0.7">数字敦煌项目</text>
+<text x="735" y="298" text-anchor="middle" fill="#20c08099" font-family="serif" font-size="12">全球用户在线游览</text>
+<rect x="546" y="218" width="55" height="35" rx="2" fill="#2a4a2a" stroke="#20c080" stroke-width="1"/>
+<rect x="611" y="218" width="55" height="35" rx="2" fill="#2a4a2a" stroke="#20c080" stroke-width="1"/>
+<rect x="676" y="218" width="55" height="35" rx="2" fill="#2a4a2a" stroke="#20c080" stroke-width="1"/>
+<rect x="741" y="218" width="55" height="35" rx="2" fill="#2a4a2a" stroke="#20c080" stroke-width="1"/>
+<rect x="806" y="218" width="55" height="35" rx="2" fill="#2a4a2a" stroke="#20c080" stroke-width="1"/>
+<rect x="871" y="218" width="55" height="35" rx="2" fill="#2a4a2a" stroke="#20c080" stroke-width="1"/>
+<rect x="526" y="418" width="418" height="235" rx="4" fill="#060e18"/>
+<text x="735" y="455" text-anchor="middle" fill="#20a0d0" font-family="serif" font-size="14" opacity="0.7">数字文物数据库</text>
+<text x="735" y="478" text-anchor="middle" fill="#20a0d099" font-family="serif" font-size="12">AI识别·分类·跨库比对</text>
+<rect x="545" y="498" width="378" height="35" rx="3" fill="#0a1a2a"/>
+<rect x="545" y="498" width="248" height="35" rx="3" fill="#1a4a6a" opacity="0.7"/>
+<text x="735" y="520" text-anchor="middle" fill="#20a0d0" font-family="serif" font-size="11">已数字化: 65%</text>
+<rect x="545" y="545" width="378" height="30" rx="3" fill="#0a1a2a"/>
+<rect x="545" y="545" width="148" height="30" rx="3" fill="#1a4a6a" opacity="0.7"/>
+<text x="735" y="564" text-anchor="middle" fill="#20a0d0" font-family="serif" font-size="11">全球可访问: 38%</text>
+<g transform="translate(512,155)"><rect x="-122" y="-22" width="245" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">数字文化遗产 · Digital Heritage</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">VR·3D扫描·AI修复</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">数字文化遗产 · 让历史永远可见</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">VR游览莫高窟 · AI修复壁画 · 3D打印文物</text>
+</svg>

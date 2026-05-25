@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <filter id="glow4">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1024" height="768" fill="url(#bg4)"/>
+  
+  <rect x="40" y="120" width="180" height="30" rx="5" fill="#0a1a2a66" stroke="#f0c87044" stroke-width="1"/>
+  <text x="130" y="140" text-anchor="middle" fill="#f0d090" font-size="14" font-family="serif">长安（西安）</text>
+  
+  <rect x="250" y="250" width="150" height="30" rx="5" fill="#0a1a2a66" stroke="#f0c87044" stroke-width="1"/>
+  <text x="325" y="270" text-anchor="middle" fill="#f0d090" font-size="14" font-family="serif">敦煌</text>
+  
+  <rect x="400" y="180" width="150" height="30" rx="5" fill="#0a1a2a66" stroke="#f0c87044" stroke-width="1"/>
+  <text x="475" y="200" text-anchor="middle" fill="#f0d090" font-size="14" font-family="serif">喀什</text>
+  
+  <rect x="550" y="300" width="140" height="30" rx="5" fill="#0a1a2a66" stroke="#f0c87044" stroke-width="1"/>
+  <text x="620" y="320" text-anchor="middle" fill="#f0d090" font-size="14" font-family="serif">撒马尔罕</text>
+  
+  <rect x="700" y="380" width="140" height="30" rx="5" fill="#0a1a2a66" stroke="#f0c87044" stroke-width="1"/>
+  <text x="770" y="400" text-anchor="middle" fill="#f0d090" font-size="14" font-family="serif">巴格达</text>
+  
+  <rect x="800" y="500" width="140" height="30" rx="5" fill="#0a1a2a66" stroke="#f0c87044" stroke-width="1"/>
+  <text x="870" y="520" text-anchor="middle" fill="#f0d090" font-size="14" font-family="serif">君士坦丁堡</text>
+  
+  <path d="M220,135 Q260,180 300,255" stroke="#f0c87088" stroke-width="3" fill="none" stroke-dasharray="8,5" filter="url(#glow4)"/>
+  <path d="M300,265 Q340,230 400,195" stroke="#f0c87088" stroke-width="3" fill="none" stroke-dasharray="8,5" filter="url(#glow4)"/>
+  <path d="M475,195 Q510,240 560,295" stroke="#f0c87088" stroke-width="3" fill="none" stroke-dasharray="8,5" filter="url(#glow4)"/>
+  <path d="M620,305 Q660,340 710,375" stroke="#f0c87088" stroke-width="3" fill="none" stroke-dasharray="8,5" filter="url(#glow4)"/>
+  <path d="M770,390 Q790,430 810,495" stroke="#f0c87088" stroke-width="3" fill="none" stroke-dasharray="8,5" filter="url(#glow4)"/>
+  
+  <path d="M300,265 Q440,380 560,295" stroke="#f0c87044" stroke-width="2" fill="none" stroke-dasharray="4,8"/>
+  <path d="M560,310 Q640,420 710,375" stroke="#f0c87044" stroke-width="2" fill="none" stroke-dasharray="4,8"/>
+  
+  <text x="512" y="650" text-anchor="middle" fill="#f0d090cc" font-family="serif" font-size="26">丝绸之路 · 陆上贸易路线</text>
+  <text x="512" y="690" text-anchor="middle" fill="#f0c87077" font-family="serif" font-size="16">CHINA — CENTRAL ASIA — MIDDLE EAST — EUROPE</text>
+  <text x="512" y="740" text-anchor="middle" fill="#c0a060aa" font-family="serif" font-size="20">公元前2世纪 - 公元16世纪</text>
+</svg>

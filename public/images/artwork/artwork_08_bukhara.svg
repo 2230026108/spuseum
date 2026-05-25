@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024" height="768">
+<defs>
+  <linearGradient id="g8" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#e8b050"/><stop offset="40%" stop-color="#d4782a"/><stop offset="70%" stop-color="#c04010"/><stop offset="100%" stop-color="#8a2a08"/>
+  </linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#g8)"/>
+<circle cx="148" cy="198" r="98" fill="#f0c050" opacity="0.38"/>
+<ellipse cx="148" cy="118" rx="64" ry="54" fill="#fff0c0" opacity="0.95"/>
+<rect x="0" y="568" width="1024" height="200" fill="#b89050"/>
+<path d="M0,553 Q300,533 600,548 Q800,528 1024,542 L1024 580 L0 580Z" fill="#c8a060"/>
+<rect x="468" y="198" width="88" height="372" fill="#d4a840"/>
+<rect x="463" y="218" width="98" height="8" rx="2" fill="#a07830" opacity="0.5"/>
+<rect x="460" y="258" width="104" height="8" rx="2" fill="#a07830" opacity="0.5"/>
+<rect x="457" y="298" width="110" height="8" rx="2" fill="#a07830" opacity="0.5"/>
+<rect x="454" y="338" width="116" height="8" rx="2" fill="#a07830" opacity="0.5"/>
+<rect x="451" y="378" width="122" height="8" rx="2" fill="#a07830" opacity="0.5"/>
+<rect x="448" y="418" width="128" height="8" rx="2" fill="#a07830" opacity="0.5"/>
+<rect x="445" y="458" width="134" height="8" rx="2" fill="#a07830" opacity="0.5"/>
+<ellipse cx="512" cy="198" rx="54" ry="26" fill="#b88030"/>
+<rect x="499" y="172" width="26" height="30" fill="#c89040"/>
+<circle cx="512" cy="170" r="11" fill="#e0a040"/>
+<rect x="118" y="388" width="342" height="182" fill="#c8a040" stroke="#a07820" stroke-width="2"/>
+<ellipse cx="289" cy="388" rx="92" ry="72" fill="#b08030"/>
+<ellipse cx="289" cy="381" rx="70" ry="57" fill="#c09040"/>
+<ellipse cx="289" cy="376" rx="42" ry="35" fill="#d8a850" opacity="0.85"/>
+<path d="M208,568 Q289,488 370,568" fill="#2a1a08" stroke="#806020" stroke-width="2"/>
+<g transform="translate(660,555)"><g transform="scale(0.68,0.68)">
+  <ellipse cx="0" cy="0" rx="38" ry="21" fill="#8B6914"/>
+  <ellipse cx="-20" cy="-17" rx="11" ry="16" fill="#8B6914"/>
+  <ellipse cx="-25" cy="-33" rx="7" ry="11" fill="#8B6914"/>
+  <ellipse cx="7" cy="-11" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="17" cy="-6" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="27" cy="-1" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="37" cy="5" rx="5" ry="12" fill="#7a5a10"/>
+</g></g>
+<g transform="translate(800,550)"><g transform="scale(0.58,0.58)">
+  <ellipse cx="0" cy="0" rx="38" ry="21" fill="#8B6914"/>
+  <ellipse cx="-20" cy="-17" rx="11" ry="16" fill="#8B6914"/>
+  <ellipse cx="-25" cy="-33" rx="7" ry="11" fill="#8B6914"/>
+  <ellipse cx="7" cy="-11" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="17" cy="-6" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="27" cy="-1" rx="5" ry="12" fill="#7a5a10"/>
+  <ellipse cx="37" cy="5" rx="5" ry="12" fill="#7a5a10"/>
+</g></g>
+<g transform="translate(512,445)"><rect x="-68" y="-22" width="137" height="42" rx="4" fill="#0a0a1ecc" stroke="#f0d78c55" stroke-width="1"/><text x="0" y="-4" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="15" font-weight="bold">布哈拉 · Bukhara</text><text x="0" y="16" text-anchor="middle" fill="#f0d78c88" font-family="serif" font-size="11">中亚古城 · 卡伦宣礼塔</text></g>
+<rect x="0" y="702" width="1024" height="50" fill="#0a0a1ecc"/><text x="512" y="730" text-anchor="middle" fill="#f0d78c" font-family="serif" font-size="24" font-weight="bold">布哈拉 · 中亚历史名城</text><text x="512" y="750" text-anchor="middle" fill="#f0d78c99" font-family="serif" font-size="13">世界遗产 · 伊斯兰学术与贸易中心</text>
+</svg>
